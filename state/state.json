@@ -261,9 +261,27 @@
  },
  "3": {
   "nome": "ACRI — fondazioni di origine bancaria",
-  "url": "https://fondazioni.acri.it/bandi/",
+  "url": "https://fondazioni.acri.it/",
   "categoria": "Aggregatore",
-  "fallimenti": 1
+  "hash": "1cda0f6d8bfd23e7776ed3bb27ebb182fe6b75cf",
+  "link": {
+   "https://fondazioni.acri.it/multimedia/vedere-longevita/": {
+    "testo": "Vedere – Longevità",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "GALLERIA Vedere – Longevità",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazioni.acri.it/2026/10/05/fondazione-carisbo-nuovi-progetti-per-sport-e-welfare-e-un-bando-aperto-per-la-ricerca/": {
+    "testo": "Fondazione Carisbo: nuovi progetti per sport e welfare e un bando aperto per la ricerca",
+    "punteggio": 8,
+    "date": [],
+    "contesto": "Fondazione Carisbo: nuovi progetti per sport e welfare e un bando aperto per la ricerca Fondazione Carisbo ha concluso la valutazione dei bandi Fair play e Welfare di comunità e generativo. Con il bando Fair play sono stati sostenuti 21 progetti, per un investimento complessivo di circa 140mila euro",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
  },
  "4": {
   "nome": "Obiettivo Europa — bandi delle fondazioni",
@@ -609,9 +627,307 @@
  },
  "5": {
   "nome": "Secondo Welfare — bandi",
-  "url": "https://www.secondowelfare.it/bandi/",
+  "url": "https://www.secondowelfare.it/",
   "categoria": "Aggregatore",
-  "fallimenti": 1
+  "hash": "cc887f23834d4ede19420e4f977a1fb4bc4b22cb",
+  "link": {
+   "https://www.secondowelfare.it/laboratorio/": {
+    "testo": "Scopri di più",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Scopri di più",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/rivista-nessi/nessi-3-a-pieno-titolo/": {
+    "testo": "A pieno titolo",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "A pieno titolo",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/primo-welfare/dati-istat-nascite-natalita-fecondita-demografia-positiva/": {
+    "testo": "Nascite in Italia: tra dati catastrofici e demografia positiva",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Nascite in Italia: tra dati catastrofici e demografia positiva",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/governi-locali/housing/a-torino-nasce-fondazione-insieme-per-la-casa-la-chiave-e-la-sussidiarieta/": {
+    "testo": "A Torino, nasce Fondazione insieme per la casa: “la chiave è la sussidiarietà”",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "A Torino, nasce Fondazione insieme per la casa: “la chiave è la sussidiarietà”",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/primo-welfare/sanita/healthdox-tre-decenni-di-riforme-sanitarie-in-europa/": {
+    "testo": "HEALTHDOX: tre decenni di riforme sanitarie in Europa",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "HEALTHDOX: tre decenni di riforme sanitarie in Europa",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/terzo-settore/fondazione-crc-55-milioni-di-erogazioni-per-il-2027/": {
+    "testo": "Fondazione CRC: 55 milioni di erogazioni per il 2027",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Fondazione CRC: 55 milioni di erogazioni per il 2027",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/osservabrescia/online-il-nuovo-sito-di-osservabrescia-i-dati-del-bresciano-a-portata-di-tutti/": {
+    "testo": "Online il nuovo sito di OsservaBrescia: i dati del Bresciano a portata di tutti",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Online il nuovo sito di OsservaBrescia: i dati del Bresciano a portata di tutti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/poverta-e-inclusione/raccomandazione-ue-esclusione-abitativa/": {
+    "testo": "La Raccomandazione UE sulla lotta all’esclusione abitativa",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "La Raccomandazione UE sulla lotta all’esclusione abitativa",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/osservabrescia/a-brescia-nascono-i-dialoghi-sul-sociale-per-leggere-e-affrontare-cambiamenti-in-atto/": {
+    "testo": "A Brescia nascono i “Dialoghi sul Sociale” per leggere i cambiamenti in atto",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "A Brescia nascono i “Dialoghi sul Sociale” per leggere i cambiamenti in atto",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/primo-welfare/disabilita-dare-spazio-allo-sport-nel-progetto-di-vita/": {
+    "testo": "Disabilità: dare spazio allo sport nel Progetto di Vita",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Disabilità: dare spazio allo sport nel Progetto di Vita",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/terzo-settore/cooperative-ai-fondazione-pico-ingrosso/": {
+    "testo": "La proposta cooperativa per un’intelligenza artificiale più equa, inclusiva e democratica",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "La proposta cooperativa per un’intelligenza artificiale più equa, inclusiva e democratica",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/poverta-e-inclusione/non-e-colpa-loro-pero-come-guardiamo-chi-vive-in-poverta/": {
+    "testo": "“Non è colpa loro, però…” Come guardiamo chi vive in povertà",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "“Non è colpa loro, però…” Come guardiamo chi vive in povertà",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/terzo-settore/fondazioni/e-se-il-futuro-della-filantropia-fosse-anarchico/": {
+    "testo": "E se il futuro della filantropia fosse anarchico?",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "E se il futuro della filantropia fosse anarchico?",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/terzo-settore/cosa-succede-quando-orientare-diventa-una-responsabilita-condivisa/": {
+    "testo": "Cosa succede quando orientare diventa una responsabilità condivisa",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Cosa succede quando orientare diventa una responsabilità condivisa",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/terzo-settore/volontariati-al-plurale-come-ricomporre-le-nuove-forme-della-partecipazione/": {
+    "testo": "Volontariati, al plurale: come ricomporre le nuove forme della partecipazione",
+    "punteggio": 6,
+    "date": [],
+    "contesto": "Volontariati, al plurale: come ricomporre le nuove forme della partecipazione",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/privati/welfare-aziendale-quanto-costano-i-fringe-benefit-allo-stato/": {
+    "testo": "Welfare aziendale: quanto costano i fringe benefit allo Stato?",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Welfare aziendale: quanto costano i fringe benefit allo Stato?",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/poverta-e-inclusione/poverta-trasporti-crisi-energetica-caro-carburanti-accise/": {
+    "testo": "Caro-carburante, chi resta indietro",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Caro-carburante, chi resta indietro",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/terzo-settore/fondazioni/finanziare-non-basta-il-nuovo-ruolo-delle-fondazioni-bancarie-nello-sviluppo-locale/": {
+    "testo": "Finanziare non basta: il nuovo ruolo delle fondazioni bancarie nello sviluppo locale",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Finanziare non basta: il nuovo ruolo delle fondazioni bancarie nello sviluppo locale",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/expert-survey/welfare-locale-il-ruolo-dei-comuni/": {
+    "testo": "EXPERT SURVEY P2W",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "EXPERT SURVEY P2W",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/immigrazione-accoglienza/imparare-sul-campo-ma-non-da-soli/": {
+    "testo": "Imparare sul campo, ma non da soli",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Imparare sul campo, ma non da soli",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/privati/aziende/il-welfare-aziendale-aumenta-davvero-la-produttivita/": {
+    "testo": "Il welfare aziendale aumenta davvero la produttività?",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Il welfare aziendale aumenta davvero la produttività?",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/governi-locali/regioni/violenza-nelle-relazioni-di-coppia-e-gender-mainstreaming-in-catalogna-la-governance-femminista-multilivello-allopera/": {
+    "testo": "Violenza nelle relazioni di coppia e gender mainstreaming in Catalogna: la governance femminista multilivello all’opera",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Violenza nelle relazioni di coppia e gender mainstreaming in Catalogna: la governance femminista multilivello all’opera",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/primo-welfare/welfare-data-driven-il-diritto-di-contestare-una-decisione-comincia-prima-dellautomazione/": {
+    "testo": "Welfare data-driven: il diritto di contestare una decisione comincia prima dell’automazione",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Welfare data-driven: il diritto di contestare una decisione comincia prima dell’automazione",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/libro-e-quaderno/il-benessere-e-produttivo-bisogni-emergenti-e-welfare-territoriale/": {
+    "testo": "Il benessere (è) produttivo. Bisogni emergenti e welfare territoriale",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Il benessere (è) produttivo. Bisogni emergenti e welfare territoriale",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/dispari-progetto/non-solo-fame-la-poverta-alimentare-degli-adolescenti-e-la-sfida-del-benessere-alimentare/": {
+    "testo": "Non solo fame: la povertà alimentare degli adolescenti e la sfida del benessere alimentare",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Non solo fame: la povertà alimentare degli adolescenti e la sfida del benessere alimentare",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/long-term-care/anziani-non-autosufficienti-servono-almeno-500-milioni-nella-prossima-manovra/": {
+    "testo": "Anziani non autosufficienti: servono almeno 500 milioni nella prossima Manovra",
+    "punteggio": 6,
+    "date": [],
+    "contesto": "Anziani non autosufficienti: servono almeno 500 milioni nella prossima Manovra",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/immigrazione-accoglienza/prossimita-e-reti-territoriali-per-garantire-continuita-nelle-cure/": {
+    "testo": "Prossimità e reti territoriali per garantire continuità nelle cure",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Prossimità e reti territoriali per garantire continuità nelle cure",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/poverta-alimentare/dal-pane-invenduto-al-welfare-alimentare-il-caso-di-un-quartiere-romano/": {
+    "testo": "Dal pane invenduto al welfare alimentare? Il caso di un quartiere romano",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Dal pane invenduto al welfare alimentare? Il caso di un quartiere romano",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/primo-welfare/economia-sociale-dal-piano-alla-prova-dei-territori/": {
+    "testo": "Economia sociale, dal Piano alla prova dei territori",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Economia sociale, dal Piano alla prova dei territori",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/primo-welfare/la-nuova-questione-abitativa-in-europa/": {
+    "testo": "La nuova questione abitativa in Europa",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "La nuova questione abitativa in Europa",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/terzo-settore/fondazioni/governare-la-policrisi-nel-welfare-locale-il-ruolo-degli-osservatori-territoriali/": {
+    "testo": "Governare la policrisi nel welfare locale: il ruolo degli Osservatori territoriali",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Governare la policrisi nel welfare locale: il ruolo degli Osservatori territoriali",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/terzo-settore/terzo-settore-se-lia-trasforma-i-bandi-in-una-lotteria/": {
+    "testo": "Terzo Settore, se l’IA trasforma i bandi in una lotteria",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Terzo Settore, se l’IA trasforma i bandi in una lotteria",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/terzo-settore/leducazione-non-formale-e-legge-oratori-e-centri-estivi-riconosciuti-come-soggetti-educativi/": {
+    "testo": "L’educazione non formale è legge: oratori e centri estivi riconosciuti come soggetti educativi",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "L’educazione non formale è legge: oratori e centri estivi riconosciuti come soggetti educativi",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/primo-welfare/prima-la-casa-poi-i-figli-in-italia-la-natalita-passa-anche-dallabitare/": {
+    "testo": "Prima la casa, poi i figli: in Italia la natalità passa anche dall’abitare",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Prima la casa, poi i figli: in Italia la natalità passa anche dall’abitare",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/primo-welfare/pensioni/un-lodo-welfare-per-salvare-lo-stato-sociale/": {
+    "testo": "Un “Lodo Welfare” per salvare lo Stato sociale",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Un “Lodo Welfare” per salvare lo Stato sociale",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/primo-welfare/dai-megatrend-ai-territori-come-cambia-il-welfare/": {
+    "testo": "Dai megatrend ai territori: come cambia il welfare",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Dai megatrend ai territori: come cambia il welfare",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/terzo-settore/costruire-luoghi-e-pratiche-meticce-per-il-welfare-territoriale/": {
+    "testo": "Costruire luoghi e pratiche “meticce” per il welfare territoriale",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Costruire luoghi e pratiche “meticce” per il welfare territoriale",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/privati/aziende/oltre-lufficio-i-veri-pro-e-contro-dello-smart-working/": {
+    "testo": "Oltre l’ufficio: i veri pro e contro dello smart working",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Oltre l’ufficio: i veri pro e contro dello smart working",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/privati/previdenza-complementare-gia-alluniversita-come-va-uwelfare/": {
+    "testo": "Previdenza complementare già all’università: come e perché",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Previdenza complementare già all’università: come e perché",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/giovani/adolescenti-online-vedono-il-sessismo-ma-faticano-a-prenderne-le-distanze/": {
+    "testo": "Adolescenti online: vedono il sessismo, ma faticano a prenderne le distanze",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Adolescenti online: vedono il sessismo, ma faticano a prenderne le distanze",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/?p=325": {
+    "testo": "iscriviti alla newsletter",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "iscriviti alla newsletter",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.secondowelfare.it/expert-survey/": {
+    "testo": "Expert survey",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Expert survey",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
  },
  "6": {
   "nome": "Unione Induista Italiana — presenta un progetto",
@@ -626,7 +942,7 @@
   "nome": "Unione Buddhista Italiana — bandi",
   "url": "https://8xmilleunionebuddhista.it/rendicontazione/bandi/",
   "categoria": "8x1000",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "8": {
   "nome": "Chiesa Valdese — Otto per Mille (home)",
@@ -811,15 +1127,260 @@
  },
  "12": {
   "nome": "Fondazione CRT",
-  "url": "https://www.fondazionecrt.it/bandi-progetti/",
+  "url": "https://www.fondazionecrt.it/category/progetti-e-bandi/",
   "categoria": "Fondazione bancaria",
-  "fallimenti": 1
+  "hash": "2632c52794237f07aab86d5eacf0a764212c844b",
+  "link": {
+   "https://www.fondazionecrt.it/category/progetti-e-bandi/": {
+    "testo": "Progetti e Bandi",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Progetti e Bandi",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/bandi-di-film-commission-torino-piemonte-aperte-le-nuove-call/": {
+    "testo": "Bandi di Film Commission Torino Piemonte: aperte le nuove call",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Bandi di Film Commission Torino Piemonte: aperte le nuove call",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/bando-ordinarie-2026-online-i-risultati/": {
+    "testo": "Bando Ordinarie 2026: online i risultati",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Bando Ordinarie 2026: online i risultati",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/nasce-la-scuola-delle-portinerie-di-comunita/": {
+    "testo": "Nasce la Scuola delle Portinerie di comunità",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Nasce la Scuola delle Portinerie di comunità",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/al-via-la-prima-portineria-di-comunita-itinerante/": {
+    "testo": "Al via la prima Portineria di comunità itinerante",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Al via la prima Portineria di comunità itinerante",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/progetto-lagrange-fondazione-crt-nuovo-bando-per-10-borse-di-ricerca-in-data-science-e-impatto-sociale/": {
+    "testo": "Progetto Lagrange–Fondazione CRT: nuovo bando per 10 borse di ricerca in data science e impatto sociale",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Progetto Lagrange–Fondazione CRT: nuovo bando per 10 borse di ricerca in data science e impatto sociale",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/vivomeglio-dalla-poesia-alleconomia-circolare-al-via-117-progetti-per-linclusione/": {
+    "testo": "Vivomeglio: dalla poesia all’economia circolare, al via 117 progetti per l’inclusione",
+    "punteggio": 3,
+    "date": [],
+    "contesto": "Vivomeglio: dalla poesia all’economia circolare, al via 117 progetti per l’inclusione",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/il-premio-speciale-fondazione-crt-43tff-redgrave/": {
+    "testo": "Il Premio speciale Fondazione CRT 43TFF a Vanessa Redgrave",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Il Premio speciale Fondazione CRT 43TFF a Vanessa Redgrave",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/disfestival-2025/": {
+    "testo": "DisFestival 2025: una settimana di eventi dedicati alla disabilità tra inclusione, cultura e partecipazione",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "DisFestival 2025: una settimana di eventi dedicati alla disabilità tra inclusione, cultura e partecipazione",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/premio-lagrange-fondazionecrt-2025-iyad-rahwan/": {
+    "testo": "Il Premio Lagrange-Fondazione CRT 2025 assegnato allo scienziato Iyad Rahwan per i suoi studi sull’interazione sociale uomo-macchina",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Il Premio Lagrange-Fondazione CRT 2025 assegnato allo scienziato Iyad Rahwan per i suoi studi sull’interazione sociale uomo-macchina",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/fondazione-crt-per-la-scuola/": {
+    "testo": "Fondazione CRT per la scuola: al via tre progetti tra crescita, innovazione e successo formativo",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Fondazione CRT per la scuola: al via tre progetti tra crescita, innovazione e successo formativo",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/aperta-la-call-del-premio-ernesto-ferrero-fondazione-crt/": {
+    "testo": "Aperta la call del Premio Ernesto Ferrero-Fondazione CRT",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Aperta la call del Premio Ernesto Ferrero-Fondazione CRT",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/premio-giornalistico-paolo-osiride-ferrero-2025/": {
+    "testo": "Premio Giornalistico Paolo Osiride Ferrero 2025",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Premio Giornalistico Paolo Osiride Ferrero 2025",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/category/community-dei-talenti/": {
+    "testo": "Community dei talenti",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Community dei talenti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/portinerie-di-comunita-intrecci/": {
+    "testo": "Ascolta le Portinerie di Comunità sul podcast Intrecci",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Ascolta le Portinerie di Comunità sul podcast Intrecci",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/il-premio-speciale-fondazione-crt-42tff-ad-avati/": {
+    "testo": "Il Premio speciale Fondazione CRT 42TFF ad Avati",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Il Premio speciale Fondazione CRT 42TFF ad Avati",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/premio-lagrange-2024-premiata-marta-gonzalez/": {
+    "testo": "Urbanizzazione e mobilità sostenibile, tra scienza delle reti e IA: a Marta C. González vince il Premio Lagrange – Fondazione CRT",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Urbanizzazione e mobilità sostenibile, tra scienza delle reti e IA: a Marta C. González vince il Premio Lagrange – Fondazione CRT",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/festival-accoglienza-2024/": {
+    "testo": "Arriva il Festival dell’Accoglienza: fino al 31 ottobre oltre 100 eventi per riflettere insieme sui valori di inclusione",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Arriva il Festival dell’Accoglienza: fino al 31 ottobre oltre 100 eventi per riflettere insieme sui valori di inclusione",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/portinerie-comunita-social-franchising/": {
+    "testo": "Da Porta Palazzo a Palermo: le Portinerie di Comunità diventano social franchising",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Da Porta Palazzo a Palermo: le Portinerie di Comunità diventano social franchising",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/premio-mario-lattes-per-la-traduzione-2024/": {
+    "testo": "Premio Mario Lattes per la Traduzione 2024",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Premio Mario Lattes per la Traduzione 2024",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/giornalismo-e-inclusione-premio-paolo-osiride-ferrero/": {
+    "testo": "Giornalismo e inclusione: Premio Paolo Osiride Ferrero",
+    "punteggio": 3,
+    "date": [],
+    "contesto": "Giornalismo e inclusione: Premio Paolo Osiride Ferrero",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/collegio-einaudi-cresce-il-contributo/": {
+    "testo": "Collegio Einaudi",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Collegio Einaudi",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/culture-of-solidarity-fund-progetti-vincitori/": {
+    "testo": "Culture of Solidarity Fund: selezionati i 14 progetti vincitori",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Culture of Solidarity Fund: selezionati i 14 progetti vincitori",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/crescono-le-portinerie-di-comunita/": {
+    "testo": "Crescono le Portinerie di comunità",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Crescono le Portinerie di comunità",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/cybersecurity-terzo-settore-fondazionecrt/": {
+    "testo": "Cybersecurity: al via il progetto-pilota in Italia per la sicurezza informatica del terzo settore",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Cybersecurity: al via il progetto-pilota in Italia per la sicurezza informatica del terzo settore",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/tff-premio-fondazione-crt/": {
+    "testo": "TFF Premio speciale Fondazione CRT",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "TFF Premio speciale Fondazione CRT",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/innovazione-sociale-e-tecnologica-per-la-cooperazione-e-il-terzo-settore/": {
+    "testo": "Innovazione sociale e tecnologica per la cooperazione e il terzo settore",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Innovazione sociale e tecnologica per la cooperazione e il terzo settore",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/richieste-ordinarie-online-gli-esiti-della-prima-sessione/": {
+    "testo": "Richieste ordinarie, online gli esiti della prima sessione",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Richieste ordinarie, online gli esiti della prima sessione",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/premio-lagrange-fondazione-crt/": {
+    "testo": "Premio Lagrange-Fondazione CRT",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Premio Lagrange-Fondazione CRT",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/premio-speciale-fondazione-crt-tff/": {
+    "testo": "Premio speciale Fondazione CRT al TFF",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Premio speciale Fondazione CRT al TFF",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/talenti-comunita-1-edizione/": {
+    "testo": "Progetto Talenti per la Comunità – 1° edizione",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Progetto Talenti per la Comunità – 1° edizione",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/talenti-per-la-comunita-inizio-corso-2/": {
+    "testo": "Talenti per la Comunità: è donna la next generation dei leader italiani",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Talenti per la Comunità: è donna la next generation dei leader italiani",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/innovazione-sociale-ogr-ashoka-summit/": {
+    "testo": "Innovazione sociale: 400 imprenditori sociali alle OGR Torino per l’Ashoka Changemaker Summit",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Innovazione sociale: 400 imprenditori sociali alle OGR Torino per l’Ashoka Changemaker Summit",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecrt.it/covid-fondazione-crt-premia-quattro-progetti-culturali-resilienti-in-europa/": {
+    "testo": "Covid: Fondazione CRT premia quattro progetti culturali resilienti in Europa",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Covid: Fondazione CRT premia quattro progetti culturali resilienti in Europa",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
  },
  "13": {
   "nome": "Fondazione Carisbo",
-  "url": "https://fondazionecarisbo.it/bandi/",
+  "url": "https://fondazionecarisbo.it/bandi-e-progetti/bandi/",
   "categoria": "Fondazione bancaria",
-  "fallimenti": 1
+  "hash": "50a40bc011816e3e6a68e67646109b6ec1d2f8a8",
+  "link": {},
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
  },
  "14": {
   "nome": "Fondazione CR Trieste",
@@ -1538,9 +2099,126 @@
  },
  "19": {
   "nome": "Compagnia di San Paolo",
-  "url": "https://www.compagniadisanpaolo.it/ita/Erogazioni/Strumenti-di-intervento",
+  "url": "https://www.compagniadisanpaolo.it/it/cosa-facciamo/contributi/",
   "categoria": "Fondazione bancaria",
-  "fallimenti": 1
+  "hash": "c0be684d57115e765227576bfc819d88aec4228e",
+  "link": {
+   "https://www.compagniadisanpaolo.it/it/cosa-facciamo/": {
+    "testo": "Cosa facciamo",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Home / Cosa facciamo / Contributi",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.compagniadisanpaolo.it/it/contributi/linee-guida-per-i-festival-partecipativi-2027/": {
+    "testo": "Linee guida per i Festival partecipativi 2027",
+    "punteggio": 3,
+    "date": [
+     "2027-04-05"
+    ],
+    "contesto": "IN CORSO Linee guida per i Festival partecipativi 2027 Scadenza: 5 aprile 2027 CULTURA SCOPRI IL BANDO",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.compagniadisanpaolo.it/it/contributi/bando-per-lo-sviluppo-di-strategie-e-percorsi-di-uso-responsabile-e-sicuro-dellintelligenza-artificiale-nelleconomia-sociale/": {
+    "testo": "Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell’intelligenza artificiale nell’economia sociale.",
+    "punteggio": 3,
+    "date": [
+     "2026-12-18"
+    ],
+    "contesto": "IN CORSO Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell’intelligenza artificiale nell’economia sociale. Scadenza: 18 dicembre 2026 ISTITUZIONALE | PIANETA SCOPRI IL BANDO",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.compagniadisanpaolo.it/it/contributi/call-for-partnership-promozione-delliniziativa-scelte-future/": {
+    "testo": "Call for Partnership. Promozione dell’iniziativa “Scelte Future”",
+    "punteggio": 4,
+    "date": [
+     "2027-03-30"
+    ],
+    "contesto": "IN CORSO Call for Partnership. Promozione dell’iniziativa “Scelte Future” Scadenza: 30 marzo 2027 ISTITUZIONALE | PERSONE SCOPRI IL BANDO",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.compagniadisanpaolo.it/it/contributi/linee-guida-medtech/": {
+    "testo": "Linee guida Medtech",
+    "punteggio": 3,
+    "date": [
+     "2027-01-28"
+    ],
+    "contesto": "IN CORSO Linee guida Medtech Scadenza: 28 gennaio 2027 PIANETA SCOPRI IL BANDO",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.compagniadisanpaolo.it/it/contributi/bando-per-lattrattivita-e-la-professionalizzazione-di-artisti-e-creativi/": {
+    "testo": "Bando per l’attrattività e la professionalizzazione di artisti e creativi",
+    "punteggio": 3,
+    "date": [
+     "2026-10-05"
+    ],
+    "contesto": "CHIUSO Bando per l’attrattività e la professionalizzazione di artisti e creativi Scadenza: 5 ottobre 2026 CULTURA SCOPRI IL BANDO",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.compagniadisanpaolo.it/it/contributi/linee-guida-per-nuovi-spazi-di-partecipazione-attiva/": {
+    "testo": "Linee Guida per nuovi spazi di partecipazione attiva",
+    "punteggio": 5,
+    "date": [
+     "2026-09-22"
+    ],
+    "contesto": "CHIUSO Linee Guida per nuovi spazi di partecipazione attiva Scadenza: 22 settembre 2026 CULTURA SCOPRI IL BANDO",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.compagniadisanpaolo.it/it/contributi/impulso-trasformare-le-imprese-con-una-filiera-sostenibile/": {
+    "testo": "IMPULSO – Trasformare le imprese con una filiera sostenibile",
+    "punteggio": 3,
+    "date": [
+     "2026-07-29"
+    ],
+    "contesto": "CHIUSO IMPULSO – Trasformare le imprese con una filiera sostenibile Scadenza: 29 luglio 2026 PIANETA SCOPRI IL BANDO",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.compagniadisanpaolo.it/it/contributi/buoni-formazione-per-la-cultura/": {
+    "testo": "Buoni formazione per la cultura",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "IN CORSO Buoni formazione per la cultura CULTURA SCOPRI IL BANDO",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.compagniadisanpaolo.it/it/contributi/call-for-partnership-_-mobilita-attiva-benessere-fisico-e-sicurezza-stradale/": {
+    "testo": "Call for Partnership _ mobilità attiva, benessere fisico e sicurezza stradale",
+    "punteggio": 4,
+    "date": [
+     "2026-05-30"
+    ],
+    "contesto": "CHIUSO Call for Partnership _ mobilità attiva, benessere fisico e sicurezza stradale Scadenza: 30 maggio 2026 PIANETA SCOPRI IL BANDO",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.compagniadisanpaolo.it/it/contributi/linee-guida-06-alleanze-ad-alta-intensita-educativa/": {
+    "testo": "Linee Guida 06 – Alleanze ad alta intensità educativa",
+    "punteggio": 3,
+    "date": [
+     "2029-06-30"
+    ],
+    "contesto": "IN CORSO Linee Guida 06 – Alleanze ad alta intensità educativa Scadenza: 30 giugno 2029 ISTITUZIONALE | PERSONE SCOPRI IL BANDO",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.compagniadisanpaolo.it/it/contributi/la-bella-stagione-2026/": {
+    "testo": "La Bella Stagione 2026",
+    "punteggio": 3,
+    "date": [
+     "2026-04-29"
+    ],
+    "contesto": "CHIUSO La Bella Stagione 2026 Scadenza: 29 aprile 2026 CULTURA | PERSONE SCOPRI IL BANDO",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.compagniadisanpaolo.it/it/contributi/bando-per-la-promozione-della-salute-mentale-delle-giovani-generazioni/": {
+    "testo": "Bando per la promozione della salute mentale delle giovani generazioni",
+    "punteggio": 3,
+    "date": [
+     "2026-06-15"
+    ],
+    "contesto": "CHIUSO Bando per la promozione della salute mentale delle giovani generazioni Scadenza: 15 giugno 2026 PERSONE SCOPRI IL BANDO",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
  },
  "20": {
   "nome": "Fondazione CR Carpi",
@@ -1695,7 +2373,7 @@
   "nome": "Fondazione di Venezia",
   "url": "https://www.fondazionedivenezia.org/",
   "categoria": "Fondazione bancaria",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "23": {
   "nome": "Fondazione CR Lucca — Welfare e comunità",
@@ -1752,73 +2430,73 @@
   "nome": "Fondazione di Comunità Milano",
   "url": "https://www.fondazionecomunitamilano.org/bandi/",
   "categoria": "Fondazione di comunità",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "26": {
   "nome": "Fondazione Nord Milano",
   "url": "https://www.fondazionenordmilano.org/bandi/",
   "categoria": "Fondazione di comunità",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "27": {
   "nome": "Fondazione Ticino Olona",
   "url": "https://www.fondazioneticinoolona.org/bandi/",
   "categoria": "Fondazione di comunità",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "28": {
   "nome": "Fondazione di Pavia",
   "url": "https://www.fondazionepv.it/bandi/",
   "categoria": "Fondazione di comunità",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "29": {
   "nome": "Fondazione Monza e Brianza",
   "url": "https://www.fondazionemonzabrianza.org/bandi/",
   "categoria": "Fondazione di comunità",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "30": {
   "nome": "Fondazione Comasca",
   "url": "https://www.fondazione-comasca.it/bandi/",
   "categoria": "Fondazione di comunità",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "31": {
   "nome": "Fondazione Bresciana",
   "url": "https://www.fondazionebresciana.org/",
   "categoria": "Fondazione di comunità",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "32": {
   "nome": "Fondazione di Comunità Bergamasca",
   "url": "https://fcbergamo.it/bandi/",
   "categoria": "Fondazione di comunità",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "33": {
   "nome": "Fondazione del VCO",
   "url": "https://www.fondazionevco.org/bandi/",
   "categoria": "Fondazione di comunità",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "34": {
   "nome": "Fondazione di Comunità Cremona",
   "url": "https://www.fondazionecomunitacremona.it/bandi/",
   "categoria": "Fondazione di comunità",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "35": {
   "nome": "Fondazione di Comunità Mantova",
   "url": "https://www.fondazionecomunitamantova.it/bandi/",
   "categoria": "Fondazione di comunità",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "36": {
   "nome": "Fondazione di Comunità Varese",
   "url": "https://www.fondazionecomunitavarese.org/bandi/",
   "categoria": "Fondazione di comunità",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "37": {
   "nome": "Fondazione Con il Sud",
@@ -2288,15 +2966,93 @@
  },
  "41": {
   "nome": "Fondazione Unipolis",
-  "url": "https://www.fondazioneunipolis.org/bandi/",
+  "url": "https://www.fondazioneunipolis.org/",
   "categoria": "Fondazione corporate",
-  "fallimenti": 1
+  "hash": "2d9f8f97f472d23fe08831654aff461986e98c70",
+  "link": {
+   "https://www.fondazioneunipolis.org/site/news/al-via-il-bando-pop-piccole-organizzazioni-protagoniste/": {
+    "testo": "Scopri di più",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "NEWS Bando POP – Piccole Organizzazioni Protagoniste Scopri di più",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazioneunipolis.org/site/ambito/welfare": {
+    "testo": "Scopri di più",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "3 Scopri di più",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazioneunipolis.org/site/news/tra-percezione-di-se-e-cambiamento-con-attivamente/": {
+    "testo": "Leggi l’articolo",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Welfare Tra percezione di sè e cambiamento con AttivaMente Leggi l’articolo",
+    "prima_vista": "2026-11-01"
+   },
+   "https://mn.fondazioneunipolis.org/iscrizionefondazione": {
+    "testo": "ISCRIVITI ALLA NEWSLETTER",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Iscriviti alla nostra newsletter Non perderti aggiornamenti su bandi, progetti, notizie ed informazioni sulla nostra Fondazione. ISCRIVITI ALLA NEWSLETTER",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazioneunipolis.org/site/progetti/": {
+    "testo": "SCOPRI TUTTI I PROGETTI",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "SCOPRI TUTTI I PROGETTI",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazioneunipolis.org/site/progetti/city-flows/": {
+    "testo": "Scopri il progetto",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Mobilità City Flows Appuntamento annuale internazionale di Unipolis ed European Transport Safety Council per la… Scopri il progetto",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazioneunipolis.org/site/vicini-di-salute/": {
+    "testo": "Scopri il progetto",
+    "punteggio": 6,
+    "date": [],
+    "contesto": "Welfare Vicini di salute Benessere e prossimità nelle aree interne Scopri il progetto",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazioneunipolis.org/site/progetti/monopattinon/": {
+    "testo": "Scopri il progetto",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Mobilità MonopattinON – metti in moto la tua sicurezza! Un percorso formativo e laboratoriale dedicato ai giovani per imparare a usare in sicurezza il… Scopri il progetto",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazioneunipolis.org/site/progetti/libere-2/": {
+    "testo": "Scopri il progetto",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Disuguaglianze Libere Percorsi di empowerment per giovani donne in un contesto migratorio Scopri il progetto",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
  },
  "42": {
-  "nome": "Fondazione Amplifon",
-  "url": "https://www.fondazioneamplifon.com/bandi/",
+  "nome": "Fondazione Amplifon (pagina corporate; bandi pubblici non confermati)",
+  "url": "https://corporate.amplifon.com/en/our-identity/amplifon-foundation",
   "categoria": "Fondazione corporate",
-  "fallimenti": 1
+  "hash": "8703b83de0170ac125e5479dd3d88de9b883ecd9",
+  "link": {
+   "https://www.amplifonfoundation.com/en/about-us/vision-mission": {
+    "testo": "Foundation's core mission",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "The Foundation's core mission is to address situations of vulnerability, in line with an operational strategy based on its social commitment to the community and Amplifon's stakeholders.",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
  },
  "43": {
   "nome": "Regione Lombardia — bandi politiche sociali",
@@ -2637,7 +3393,7 @@
   "nome": "Ministero della Salute — avvisi",
   "url": "https://www.salute.gov.it/portale/news/p3_2_1.jsp?lingua=italiano&menu=notizie&p=avvisi",
   "categoria": "Ministero",
-  "hash": "d2d7f83263096a78df4bb0637c2be4b3de81b992",
+  "hash": "003ffedafed788b19f388f66bf34f72ee63a61be",
   "link": {},
   "ultimo_ok": "2026-11-01",
   "fallimenti": 0
@@ -2956,20 +3712,876 @@
  },
  "52": {
   "nome": "AUSER — news",
-  "url": "https://www.auser.it/news/",
+  "url": "https://auser.it/cosa-facciamo/",
   "categoria": "Partner",
-  "fallimenti": 1
+  "hash": "98b69fb49496633bd63548031ff102877695e4ab",
+  "link": {
+   "https://auser.it/cosa-facciamo/aiuto-alla-persona/": {
+    "testo": "Aiuto alla persona",
+    "punteggio": 6,
+    "date": [],
+    "contesto": "Aiuto alla persona : sostegno alle fragilità, contrasto alla solitudine, attività a favore degli anziani, in particolare di quelli più soli e fragili.",
+    "prima_vista": "2026-11-01"
+   },
+   "https://auser.it/cosa-facciamo/volontariato-per-la-comunita/": {
+    "testo": "Volontariato per la comunità",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Volontariato per la comunità , uno strumento concreto di cittadinanza attiva, che unisce generazioni diverse e valorizza le competenze di ciascuno",
+    "prima_vista": "2026-11-01"
+   },
+   "https://auser.it/cosa-facciamo/abitare-dalla-parte-degli-anziani/": {
+    "testo": "Abitare dalla parte degli anziani",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Abitare dalla parte degli anziani , risposte concrete ai problemi legati alla dimensione domestica degli anziani.",
+    "prima_vista": "2026-11-01"
+   },
+   "https://auser.it/cosa-facciamo/volontariato-per-la-comunita": {
+    "testo": "Volontariato per la comunità",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Volontariato per la comunità",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
  },
  "53": {
   "nome": "Fondazione Ravasi Garzanti",
   "url": "https://fondazionegarzanti.it/",
   "categoria": "Partner",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "54": {
   "nome": "ESF+ — calls",
   "url": "https://esf.ec.europa.eu/en/calls",
   "categoria": "UE",
-  "fallimenti": 1
+  "fallimenti": 2
+ },
+ "55": {
+  "nome": "Fondazione di Modena — bandi",
+  "url": "https://www.fondazionedimodena.it/bandi/",
+  "categoria": "Fondazione bancaria",
+  "hash": "f089a844b1e3d3d0b78d6f077a75983290ed6213",
+  "link": {
+   "https://www.fondazionedimodena.it/bandi/bando-attivatori-di-comunita-2/": {
+    "testo": "Bando Attivatori di Comunità 2026 Data di pubblicazione: 15 Ottobre 2026 | Data di scadenza: 14 Gennaio 2027 Che cosa finanziamo Con il bando Attivatori di comunità Fondazione di Modena e Centro Servi",
+    "punteggio": 8,
+    "date": [
+     "2026-10-15",
+     "2027-01-14"
+    ],
+    "contesto": "Bando Attivatori di Comunità 2026 Data di pubblicazione: 15 Ottobre 2026 | Data di scadenza: 14 Gennaio 2027 Che cosa finanziamo Con il bando Attivatori di comunità Fondazione di Modena e Centro Servizi per il Volontariato (CSV) Terre Estensi intendono promuovere – con il sostegno del Fondo Carta Et",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
+ },
+ "56": {
+  "nome": "Fondazione Carit Terni — bandi in corso",
+  "url": "https://www.fondazionecarit.it/bandi-in-corso",
+  "categoria": "Fondazione bancaria",
+  "hash": "547b01ea8919ebbf85e7622c29047625be7fa399",
+  "link": {
+   "https://www.fondazionecarit.it/bando-82026-welfare-di-comunità": {
+    "testo": "Bando 8/2026 - Welfare di comunità",
+    "punteggio": 5,
+    "date": [],
+    "contesto": "Bando 8/2026 - Welfare di comunità",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecarit.it/call-proposal-2026-restauro-beni-storico-artistici": {
+    "testo": "Call for proposal 2026 - Restauro beni storico artistici",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Call for proposal 2026 - Restauro beni storico artistici",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecarit.it/come-presentare-una-richiesta": {
+    "testo": "come presentare una richiesta",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "come presentare una richiesta rendicontazione",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecarit.it/rendicontazione-e-saldi-contributi": {
+    "testo": "rendicontazione",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "come presentare una richiesta rendicontazione",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.fondazionecarit.it/volontariato-filantropia-e-beneficenza": {
+    "testo": "Volontariato, filantropia e beneficenza",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Volontariato, filantropia e beneficenza",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
+ },
+ "57": {
+  "nome": "Obiettivo Europa — sostenibilità sociale",
+  "url": "https://www.obiettivoeuropa.com/bandi/aperti/settore/sostenibilita-sociale/pagina/1/",
+  "categoria": "Aggregatore",
+  "hash": "abb7077336f532efae7214a4662b4e77bf2e525a",
+  "link": {
+   "https://www.obiettivoeuropa.com/bandi/sardegna-bando-inclasse": {
+    "testo": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità",
+    "punteggio": 6,
+    "date": [
+     "2026-11-11",
+     "2026-11-16"
+    ],
+    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/puglia-lotta-alla-violenza-nuovo-avviso-riservato-alle-case-rifugio-di-i-e-ii-livello": {
+    "testo": "Scadenza: 16 novembre 2026 Aperto Puglia - Avviso pubblico per i contributi destinati alle Case rifugio di I e II livello Diritti e Cittadinanza Giustizia e sicurezza Inclusione Sociale e Solidarietà ",
+    "punteggio": 8,
+    "date": [
+     "2026-11-11",
+     "2026-11-16"
+    ],
+    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/piemonte-misure-per-residenzialita-temporanea-e-accompagnamento-delle-persone-in-uscita-e-esecuzione-penale-esterna": {
+    "testo": "Scadenza: 10 novembre 2026 Aperto Piemonte – Misure per residenzialità temporanea e accompagnamento delle persone in uscita e esecuzione penale esterna Inclusione Sociale e Solidarietà Sostenibilità s",
+    "punteggio": 8,
+    "date": [
+     "2026-11-10",
+     "2026-11-11",
+     "2026-11-16"
+    ],
+    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aics-intervento-multisettoriale-di-emergenza-ed-early-recovery-in-risposta-alla-crisi-umanitaria-protratta-in-siria-e-accesso-al-lavoro-dignitoso-per-le-fasce-vulnerabili-della-popolazione-siriana": {
+    "testo": "Scadenza: 2 novembre 2026 Aperto AICS - Intervento multisettoriale di emergenza ed early recovery in risposta alla crisi umanitaria protratta in Siria e Accesso al lavoro dignitoso per le fasce vulner",
+    "punteggio": 8,
+    "date": [
+     "2026-11-02",
+     "2026-11-11",
+     "2026-11-16"
+    ],
+    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/ministero-del-lavoro-e-delle-politiche-sociali-rebuilding-20": {
+    "testo": "Scadenza: Non disponibile Aperto Ministero del Lavoro e delle Politiche Sociali - Rebuilding 2.0 Diritti e Cittadinanza Educazione e istruzione Formazione e lavoro Inclusione Sociale e Solidarietà Mar",
+    "punteggio": 6,
+    "date": [
+     "2026-11-11",
+     "2026-11-16"
+    ],
+    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/socialfare-planet-foundamentals-soluzioni-sistemiche-per-un-mondo-che-cambia": {
+    "testo": "Scadenza: 18 giugno 2027 Aperto SocialFare - Planet Foundamentals: Soluzioni sistemiche per un mondo che cambia Ambiente e Sviluppo sostenibile Competitività imprese Inclusione Sociale e Solidarietà M",
+    "punteggio": 6,
+    "date": [
+     "2026-11-11",
+     "2026-11-16",
+     "2027-06-18"
+    ],
+    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/piemonte-bando-corno-dafrica-2026-kenya": {
+    "testo": "Scadenza: 4 novembre 2026 Aperto Piemonte – Bando Corno d'Africa 2026 Kenya Cooperazione Internazionale Diritti e Cittadinanza Inclusione Sociale e Solidarietà Marginalità sociale Salute e medicina So",
+    "punteggio": 8,
+    "date": [
+     "2026-11-04",
+     "2026-11-11",
+     "2026-11-16"
+    ],
+    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/lombardia-inclusione-scolastica-per-studenti-con-disabilita-sensoriale-domande-famiglie": {
+    "testo": "Scadenza: Ad esaurimento Aperto Lombardia - Inclusione scolastica per studenti con disabilità sensoriale: Domande famiglie Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e soc",
+    "punteggio": 6,
+    "date": [
+     "2026-11-11",
+     "2026-11-16"
+    ],
+    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/fondazione-cariplo-bando-innovawelfare": {
+    "testo": "Scadenza: 25 marzo 2027 Aperto Fondazione Cariplo - Bando INNOVAWELFARE Diritti e Cittadinanza Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale ",
+    "punteggio": 10,
+    "date": [
+     "2026-11-11",
+     "2026-11-16",
+     "2027-03-25"
+    ],
+    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/lombardia-bando-voucher-di-accelerazione": {
+    "testo": "Scadenza: 28 febbraio 2027 Aperto Lombardia - Bando Voucher di Accelerazione Ambiente e Sviluppo sostenibile Inclusione Sociale e Solidarietà Sostenibilità sociale Supporto alle imprese Tessile PMI Ba",
+    "punteggio": 6,
+    "date": [
+     "2026-11-11",
+     "2026-11-16",
+     "2027-02-28"
+    ],
+    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/diritti-e-cittadinanza/pagina/1/": {
+    "testo": "Diritti e Cittadinanza",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Diritti e Cittadinanza Distretti del Commercio E-commerce Economia circolare Edilizia Editoria e informazione Educazione e istruzione Emittenti radiofoniche Energie Rinnovabili Farmaceutico Farmacia e/o chimica Fashion Festival e mostre Fiere ed eventi Formazione e lavoro Fotovoltaico Gastronomia Gi",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/distretti-del-commercio/pagina/1/": {
+    "testo": "Distretti del Commercio",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Distretti del Commercio E-commerce Economia circolare Edilizia Editoria e informazione Educazione e istruzione Emittenti radiofoniche Energie Rinnovabili Farmaceutico Farmacia e/o chimica Fashion Festival e mostre Fiere ed eventi Formazione e lavoro Fotovoltaico Gastronomia Giustizia e sicurezza Gre",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/economia-circolare/pagina/1/": {
+    "testo": "Economia circolare",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Economia circolare Edilizia Editoria e informazione Educazione e istruzione Emittenti radiofoniche Energie Rinnovabili Farmaceutico Farmacia e/o chimica Fashion Festival e mostre Fiere ed eventi Formazione e lavoro Fotovoltaico Gastronomia Giustizia e sicurezza Green economy Impianti sportivi Impren",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/editoria-e-informazione/pagina/1/": {
+    "testo": "Editoria e informazione",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Editoria e informazione Educazione e istruzione Emittenti radiofoniche Energie Rinnovabili Farmaceutico Farmacia e/o chimica Fashion Festival e mostre Fiere ed eventi Formazione e lavoro Fotovoltaico Gastronomia Giustizia e sicurezza Green economy Impianti sportivi Imprenditoria femminile Inclusione",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/educazione-e-istruzione/pagina/1/": {
+    "testo": "Educazione e istruzione",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Educazione e istruzione Emittenti radiofoniche Energie Rinnovabili Farmaceutico Farmacia e/o chimica Fashion Festival e mostre Fiere ed eventi Formazione e lavoro Fotovoltaico Gastronomia Giustizia e sicurezza Green economy Impianti sportivi Imprenditoria femminile Inclusione Sociale e Solidarietà I",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/emittenti-radiofoniche/pagina/1/": {
+    "testo": "Emittenti radiofoniche",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Emittenti radiofoniche Energie Rinnovabili Farmaceutico Farmacia e/o chimica Fashion Festival e mostre Fiere ed eventi Formazione e lavoro Fotovoltaico Gastronomia Giustizia e sicurezza Green economy Impianti sportivi Imprenditoria femminile Inclusione Sociale e Solidarietà Innovazione tecnologica, ",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/energie-rinnovabili/pagina/1/": {
+    "testo": "Energie Rinnovabili",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Energie Rinnovabili Farmaceutico Farmacia e/o chimica Fashion Festival e mostre Fiere ed eventi Formazione e lavoro Fotovoltaico Gastronomia Giustizia e sicurezza Green economy Impianti sportivi Imprenditoria femminile Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT I",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/farmaceutico/pagina/1/": {
+    "testo": "Farmaceutico",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Farmaceutico Farmacia e/o chimica Fashion Festival e mostre Fiere ed eventi Formazione e lavoro Fotovoltaico Gastronomia Giustizia e sicurezza Green economy Impianti sportivi Imprenditoria femminile Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artifici",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/farmacia-eo-chimica/pagina/1/": {
+    "testo": "Farmacia e/o chimica",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Farmacia e/o chimica Fashion Festival e mostre Fiere ed eventi Formazione e lavoro Fotovoltaico Gastronomia Giustizia e sicurezza Green economy Impianti sportivi Imprenditoria femminile Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Internazi",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/festival-e-mostre/pagina/1/": {
+    "testo": "Festival e mostre",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Festival e mostre Fiere ed eventi Formazione e lavoro Fotovoltaico Gastronomia Giustizia e sicurezza Green economy Impianti sportivi Imprenditoria femminile Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Internazionalizzazione Libro e lettura",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/fiere-ed-eventi/pagina/1/": {
+    "testo": "Fiere ed eventi",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Fiere ed eventi Formazione e lavoro Fotovoltaico Gastronomia Giustizia e sicurezza Green economy Impianti sportivi Imprenditoria femminile Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Internazionalizzazione Libro e lettura Manifatturiero Ma",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/formazione-e-lavoro/pagina/1/": {
+    "testo": "Formazione e lavoro",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Formazione e lavoro Fotovoltaico Gastronomia Giustizia e sicurezza Green economy Impianti sportivi Imprenditoria femminile Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Internazionalizzazione Libro e lettura Manifatturiero Manifestazioni cul",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/fotovoltaico/pagina/1/": {
+    "testo": "Fotovoltaico",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Fotovoltaico Gastronomia Giustizia e sicurezza Green economy Impianti sportivi Imprenditoria femminile Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Internazionalizzazione Libro e lettura Manifatturiero Manifestazioni culturali Manifestazion",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/giustizia-e-sicurezza/pagina/1/": {
+    "testo": "Giustizia e sicurezza",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Giustizia e sicurezza Green economy Impianti sportivi Imprenditoria femminile Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Internazionalizzazione Libro e lettura Manifatturiero Manifestazioni culturali Manifestazioni Sportive Marginalità so",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/green-economy/pagina/1/": {
+    "testo": "Green economy",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Green economy Impianti sportivi Imprenditoria femminile Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Internazionalizzazione Libro e lettura Manifatturiero Manifestazioni culturali Manifestazioni Sportive Marginalità sociale Marketing e comu",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/impianti-sportivi/pagina/1/": {
+    "testo": "Impianti sportivi",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Impianti sportivi Imprenditoria femminile Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Internazionalizzazione Libro e lettura Manifatturiero Manifestazioni culturali Manifestazioni Sportive Marginalità sociale Marketing e comunicazione Medi",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/imprenditoria-femminile/pagina/1/": {
+    "testo": "Imprenditoria femminile",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Imprenditoria femminile Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Internazionalizzazione Libro e lettura Manifatturiero Manifestazioni culturali Manifestazioni Sportive Marginalità sociale Marketing e comunicazione Media e informazione M",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/inclusione-sociale-e-solidarieta/pagina/1/": {
+    "testo": "Inclusione Sociale e Solidarietà",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Internazionalizzazione Libro e lettura Manifatturiero Manifestazioni culturali Manifestazioni Sportive Marginalità sociale Marketing e comunicazione Media e informazione Migrazione e sviluppo Mob",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/settore-apistico/pagina/1/": {
+    "testo": "Settore apistico",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Settore apistico Smart cities Soluzioni Hardware e/o software Sostenibilità sociale Spettacolo dal vivo Sport STEM Superamento barriere archietettoniche Supporto alle imprese Supporto psicologico Sviluppo e promozione territoriale Teatro Telecomunicazioni Tessile Transizione digitale Transizione eco",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/smart-cities/pagina/1/": {
+    "testo": "Smart cities",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Smart cities Soluzioni Hardware e/o software Sostenibilità sociale Spettacolo dal vivo Sport STEM Superamento barriere archietettoniche Supporto alle imprese Supporto psicologico Sviluppo e promozione territoriale Teatro Telecomunicazioni Tessile Transizione digitale Transizione ecologica Transizion",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/soluzioni-hardware-eo-software/pagina/1/": {
+    "testo": "Soluzioni Hardware e/o software",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Soluzioni Hardware e/o software Sostenibilità sociale Spettacolo dal vivo Sport STEM Superamento barriere archietettoniche Supporto alle imprese Supporto psicologico Sviluppo e promozione territoriale Teatro Telecomunicazioni Tessile Transizione digitale Transizione ecologica Transizione energetica ",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/sostenibilita-sociale/pagina/1/": {
+    "testo": "Sostenibilità sociale",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Sostenibilità sociale Spettacolo dal vivo Sport STEM Superamento barriere archietettoniche Supporto alle imprese Supporto psicologico Sviluppo e promozione territoriale Teatro Telecomunicazioni Tessile Transizione digitale Transizione ecologica Transizione energetica Trasporti Turismo Viabilità Volo",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/spettacolo-dal-vivo/pagina/1/": {
+    "testo": "Spettacolo dal vivo",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Spettacolo dal vivo Sport STEM Superamento barriere archietettoniche Supporto alle imprese Supporto psicologico Sviluppo e promozione territoriale Teatro Telecomunicazioni Tessile Transizione digitale Transizione ecologica Transizione energetica Trasporti Turismo Viabilità Volontariato Welfare",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/superamento-barriere-archietettoniche/pagina/1/": {
+    "testo": "Superamento barriere archietettoniche",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Superamento barriere archietettoniche Supporto alle imprese Supporto psicologico Sviluppo e promozione territoriale Teatro Telecomunicazioni Tessile Transizione digitale Transizione ecologica Transizione energetica Trasporti Turismo Viabilità Volontariato Welfare",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/supporto-alle-imprese/pagina/1/": {
+    "testo": "Supporto alle imprese",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Supporto alle imprese Supporto psicologico Sviluppo e promozione territoriale Teatro Telecomunicazioni Tessile Transizione digitale Transizione ecologica Transizione energetica Trasporti Turismo Viabilità Volontariato Welfare",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/supporto-psicologico/pagina/1/": {
+    "testo": "Supporto psicologico",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Supporto psicologico Sviluppo e promozione territoriale Teatro Telecomunicazioni Tessile Transizione digitale Transizione ecologica Transizione energetica Trasporti Turismo Viabilità Volontariato Welfare",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/sviluppo-e-promozione-territoriale/pagina/1/": {
+    "testo": "Sviluppo e promozione territoriale",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Sviluppo e promozione territoriale Teatro Telecomunicazioni Tessile Transizione digitale Transizione ecologica Transizione energetica Trasporti Turismo Viabilità Volontariato Welfare",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/telecomunicazioni/pagina/1/": {
+    "testo": "Telecomunicazioni",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Telecomunicazioni Tessile Transizione digitale Transizione ecologica Transizione energetica Trasporti Turismo Viabilità Volontariato Welfare",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/transizione-digitale/pagina/1/": {
+    "testo": "Transizione digitale",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Transizione digitale Transizione ecologica Transizione energetica Trasporti Turismo Viabilità Volontariato Welfare",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/transizione-ecologica/pagina/1/": {
+    "testo": "Transizione ecologica",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Transizione ecologica Transizione energetica Trasporti Turismo Viabilità Volontariato Welfare",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/transizione-energetica/pagina/1/": {
+    "testo": "Transizione energetica",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Transizione energetica Trasporti Turismo Viabilità Volontariato Welfare",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/aperti/settore/volontariato/pagina/1/": {
+    "testo": "Volontariato",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Volontariato Welfare",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
+ },
+ "58": {
+  "nome": "Fondazione CR Firenze — bandi",
+  "url": "https://fondazionecrfirenze.it/bandi/",
+  "categoria": "Fondazione bancaria",
+  "hash": "79de785bedeee3eb1f0f22b2a2e5c1c658fb67f3",
+  "link": {
+   "https://fondazionecrfirenze.it/beneficiari/come-possiamo-aiutarti": {
+    "testo": "Come presentare richiesta",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Come presentare richiesta",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecrfirenze.it/bandi/partecipazione-culturale/": {
+    "testo": "Partecipazione Culturale Scuole",
+    "punteggio": 3,
+    "date": [
+     "2026-11-18"
+    ],
+    "contesto": "Partecipazione Culturale Scuole Adolescenti in scena: il potere educativo di teatro e cinema a scuola Scadenza: 18 Novembre 2026 Missione : Fondazione per la cultura Settore : Arte, attività e Beni Culturali",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecrfirenze.it/bandi/spazi-verdi-attivi/": {
+    "testo": "Spazi Verdi Attivi",
+    "punteggio": 1,
+    "date": [
+     "2026-12-10"
+    ],
+    "contesto": "Spazi Verdi Attivi Rigenerazione urbana e cura condivisa degli spazi aperti Scadenza: 10 Dicembre 2026 Missione : Fondazione per lo sviluppo del territorio Settore : Protezione e Qualità Ambientale",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecrfirenze.it/bandi/benessere-scuola/": {
+    "testo": "Percorsi di benessere scolastico",
+    "punteggio": 6,
+    "date": [
+     "2027-01-30"
+    ],
+    "contesto": "Percorsi di benessere scolastico Progetti per il benessere, l’inclusione e la partecipazione scolastica Scadenza: 30 Gennaio 2027 Missione : Fondazione per le persone, Giovani Settore : Educazione, Istruzione e Formazione",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecrfirenze.it/bandi/grandi-attrezzature/": {
+    "testo": "Grandi Attrezzature",
+    "punteggio": 2,
+    "date": [
+     "2026-09-18"
+    ],
+    "contesto": "Grandi Attrezzature Bando per le attrezzature di ricerca dell’Università di Firenze. Scadenza: 18 Settembre 2026 Missione : Fondazione per l’innovazione Settore : Ricerca scientifica e tecnologica",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecrfirenze.it/bandi/estate-insieme/": {
+    "testo": "E-state Insieme",
+    "punteggio": 2,
+    "date": [
+     "2026-03-19"
+    ],
+    "contesto": "E-state Insieme Bando per il sostegno di centri estivi residenziali o diurni, nei territori della Città metropolitana di Firenze e delle province di Arezzo e Grosseto Scadenza: 19 Marzo 2026 Missione : Fondazione per le persone, Giovani Settore : Educazione, Istruzione e Formazione",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecrfirenze.it/bandi/spettacolo-vivo/": {
+    "testo": "Spettacolo dal Vivo",
+    "punteggio": 2,
+    "date": [
+     "2026-03-18"
+    ],
+    "contesto": "Spettacolo dal Vivo Call per la realizzazione di stagioni, produzioni ed eventi di spettacolo dal vivo. Scadenza: 18 Marzo 2026 Missione : Fondazione per la cultura Settore : Arte, attività e Beni Culturali",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecrfirenze.it/bandi/firenze-scuole-paritarie/": {
+    "testo": "La Fondazione per le Scuole Paritarie",
+    "punteggio": 1,
+    "date": [
+     "2026-02-18"
+    ],
+    "contesto": "La Fondazione per le Scuole Paritarie Riqualificazione degli spazi e voucher per l’accesso alla scuola primaria Scadenza: 18 Febbraio 2026 Missione : Fondazione per le persone, Giovani Settore : Educazione, Istruzione e Formazione",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecrfirenze.it/bandi/valorizzazione-musei-biblioteche-archivi/": {
+    "testo": "Conservazione e valorizzazione Biblioteche e Archivi",
+    "punteggio": 2,
+    "date": [
+     "2026-01-30"
+    ],
+    "contesto": "Conservazione e valorizzazione Biblioteche e Archivi Bando a sostegno di azioni di promozione, restauro e valorizzazione dei luoghi della cultura Scadenza: 30 Gennaio 2026 Missione : Fondazione per la cultura Settore : Arte, attività e Beni Culturali",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecrfirenze.it/bandi/arte-attivita-culturali-ridotto/": {
+    "testo": "Attività culturali. Modello ridotto – richieste fino a € 10.000",
+    "punteggio": 3,
+    "date": [
+     "2026-01-30"
+    ],
+    "contesto": "Attività culturali. Modello ridotto – richieste fino a € 10.000 Per richieste di contributo pari o inferiori a € 10mila Scadenza: 30 Gennaio 2026 Missione : Fondazione per la cultura Settore : Arte, attività e Beni Culturali",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecrfirenze.it/bandi/attivita-artistiche-culturali/": {
+    "testo": "Attività artistiche e culturali",
+    "punteggio": 2,
+    "date": [
+     "2026-01-30"
+    ],
+    "contesto": "Attività artistiche e culturali Bando per la realizzazione di iniziative relative a storia e cultura locale, poesia e letteratura, attività artistiche Scadenza: 30 Gennaio 2026 Missione : Fondazione per la cultura Settore : Arte, attività e Beni Culturali",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecrfirenze.it/bandi/solidarieta/": {
+    "testo": "Solidarietà, richieste fino a € 5.000",
+    "punteggio": 9,
+    "date": [
+     "2026-01-23"
+    ],
+    "contesto": "Solidarietà, richieste fino a € 5.000 Un bando per garantire un intervento diretto a supporto degli enti del Terzo settore. Scadenza: 23 Gennaio 2026 Missione : Anziani e fragili, Fondazione per le persone Settore : Volontariato, Filantropia e Beneficenza",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecrfirenze.it/progetti/sportello-europa/": {
+    "testo": "Scopri di più",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Scopri di più",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecrfirenze.it/cosa-facciamo/progetti": {
+    "testo": "Scopri i nostri progetti",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Scopri i nostri progetti",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
+ },
+ "59": {
+  "nome": "Fondazione Carisbo — Welfare di comunità e generativo",
+  "url": "https://fondazionecarisbo.it/bandi-e-iniziative/welfare-di-comunita-e-generativo/",
+  "categoria": "Fondazione bancaria",
+  "hash": "c479dfc936412059fb074779629b4d18ab755577",
+  "link": {
+   "https://fondazionecarisbo.it/wp-content/uploads/2026/01/Fondazione-Carisbo-Bando-Welfare-di-comunita-e-generativo-2026.pdf": {
+    "testo": "Leggi il bando",
+    "punteggio": 5,
+    "date": [],
+    "contesto": "Leggi il bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2026/10/Esiti_Bando-Welfare-di-comunita-e-generativo-2026.pdf": {
+    "testo": "Esiti",
+    "punteggio": 5,
+    "date": [],
+    "contesto": "Leggi il bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2025/01/Fondazione-Carisbo-Bando-Welfare-di-comunita-e-generativo-2025.pdf": {
+    "testo": "Bando",
+    "punteggio": 5,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2025/10/Esiti_Bando-Welfare-di-comunita-e-generativo-2025.pdf": {
+    "testo": "Esiti",
+    "punteggio": 5,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2024/10/Fondazione-Carisbo-Bando-Welfare-di-comunita-e-generativo-2024.pdf": {
+    "testo": "Bando",
+    "punteggio": 5,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2024/10/Esiti_Bando-Welfare-di-comunita-e-generativo_2024.pdf": {
+    "testo": "Esiti",
+    "punteggio": 5,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2024/10/Fondazione-Carisbo-Bando-Welfare-di-comunita-e-generativo-2023.pdf": {
+    "testo": "Bando",
+    "punteggio": 5,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2024/10/Esiti_Bando-Welfare-di-comunita-e-generativo_2023.pdf": {
+    "testo": "Esiti",
+    "punteggio": 5,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2024/10/Fondazione-Carisbo_Bando-Welfare-di-comunita-e-generativo-2022.pdf": {
+    "testo": "Bando",
+    "punteggio": 5,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2024/10/Esiti_Bando-Welfare-di-comunita-e-generativo_2022.pdf": {
+    "testo": "Esiti",
+    "punteggio": 5,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2024/10/Fondazione-Carisbo_Bando-Welfare-di-comunita-e-generativo-2021.pdf": {
+    "testo": "Bando",
+    "punteggio": 5,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2024/10/Esiti_Bando-Welfare-di-comunita-e-generativo_2021.pdf": {
+    "testo": "Esiti",
+    "punteggio": 5,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/bandi-e-progetti/bandi/": {
+    "testo": "Tutti i bandi",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Torna indietro Tutti i bandi",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
+ },
+ "60": {
+  "nome": "Fondazione Carisbo — Servizi alla persona",
+  "url": "https://fondazionecarisbo.it/bandi-e-iniziative/servizi-alla-persona/",
+  "categoria": "Fondazione bancaria",
+  "hash": "889784cb7dbd5d55f6b28356ce1034ca5a81b5de",
+  "link": {
+   "https://fondazionecarisbo.it/wp-content/uploads/2026/06/Fondazione-Carisbo-Bando-Servizi-alla-persona-2026.pdf": {
+    "testo": "Leggi il bando",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Leggi il bando",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2025/06/Fondazione-Carisbo-Bando-Servizi-alla-persona-2025.pdf": {
+    "testo": "Bando",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2025/12/Esiti_Bando-Servizi-alla-persona-2025.pdf": {
+    "testo": "Esiti",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2024/10/Fondazione-Carisbo-Bando-Servizi-alla-persona-2024.pdf": {
+    "testo": "Bando",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/wp-content/uploads/2025/01/Esiti_Bando-Servizi-alla-Persona_2024.pdf": {
+    "testo": "Esiti",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Bando Esiti",
+    "prima_vista": "2026-11-01"
+   },
+   "https://fondazionecarisbo.it/bandi-e-progetti/bandi/": {
+    "testo": "Tutti i bandi",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Torna indietro Tutti i bandi",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
+ },
+ "61": {
+  "nome": "Banca d'Italia — contributi liberali (finestre 1/1-28/2 e 1/7-31/8)",
+  "url": "https://www.bancaditalia.it/focus/sostenibilita/contributi/index.html",
+  "categoria": "Banca",
+  "hash": "f06fb115e5c36c58a18af17e5c9321bcde30d17c",
+  "link": {
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/index.html?com.dotmarketing.htmlpage.language=1": {
+    "testo": "EN Go to english version",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "EN Go to english version",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/FAQ_erogazioni_liberali.pdf": {
+    "testo": "FAQ - Contributi liberali erogati dalla Banca d'Italia pdf 323 KB",
+    "punteggio": 1,
+    "date": [
+     "2026-07-30"
+    ],
+    "contesto": "Data Pubblicazione:: 30 luglio 2026 FAQ - Contributi liberali erogati dalla Banca d'Italia pdf 323 KB",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/Modulo_presentazione_richiesta_contributo_liberale.docx": {
+    "testo": "Modulo per la presentazione della richiesta di contributo liberale docx 93 KB",
+    "punteggio": 2,
+    "date": [
+     "2026-06-30"
+    ],
+    "contesto": "Data Pubblicazione:: 30 giugno 2026 Modulo per la presentazione della richiesta di contributo liberale docx 93 KB",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/Elenco-soggetti-destinatari-donazione-beni-dismessi-anno-2025.pdf": {
+    "testo": "Elenco delle donazioni di beni dismessi nel 2025 pdf 254 KB",
+    "punteggio": 1,
+    "date": [
+     "2026-05-20"
+    ],
+    "contesto": "Data Pubblicazione:: 20 maggio 2026 Elenco delle donazioni di beni dismessi nel 2025 pdf 254 KB",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/Elenco-beneficiari-contributi-2025.pdf": {
+    "testo": "Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico - anno 2025 pdf 221 KB",
+    "punteggio": 1,
+    "date": [
+     "2026-02-13"
+    ],
+    "contesto": "Data Pubblicazione:: 13 febbraio 2026 Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico - anno 2025 pdf 221 KB",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/Elenco_dei_soggetti_destinatari_di_donazione_di_beni_dismessi_-_anno_2024.pdf": {
+    "testo": "Elenco delle donazioni di beni dismessi nel 2024 pdf 212 KB",
+    "punteggio": 1,
+    "date": [
+     "2025-05-16"
+    ],
+    "contesto": "Data Pubblicazione:: 16 maggio 2025 Elenco delle donazioni di beni dismessi nel 2024 pdf 212 KB",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/Elenco-soggetti-destinatari-di-contributi-a-scopo-di-beneficenza-o-per-iniziative-di-interesse-pubblico-anno-2024.pdf": {
+    "testo": "Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico - anno 2024 pdf 700 KB",
+    "punteggio": 1,
+    "date": [
+     "2025-02-21"
+    ],
+    "contesto": "Data Pubblicazione:: 21 febbraio 2025 Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico - anno 2024 pdf 700 KB",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/nuovi_criteri-erogazioni-liberali.pdf": {
+    "testo": "Criteri e procedure per l'assegnazione di contributi liberali da parte della Banca d'Italia pdf 234 KB",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Data Pubblicazione:: 27 luglio 2020 Criteri e procedure per l'assegnazione di contributi liberali da parte della Banca d'Italia pdf 234 KB Trovano applicazione per le domande di contributo presentate a far tempo dal 1° luglio 2020",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/elenco-beneficiari-contributi-2023.pdf": {
+    "testo": "Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico pdf 586 KB",
+    "punteggio": 1,
+    "date": [
+     "2024-02-27"
+    ],
+    "contesto": "Data Pubblicazione:: 27 febbraio 2024 Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico pdf 586 KB Anno 2023",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/elenco_beneficiari_contributi_2022.pdf": {
+    "testo": "Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico pdf 82 KB",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Data Pubblicazione:: 01 marzo 2023 Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico pdf 82 KB Anno 2022",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/Elenco-beneficiari-contributi-2021.pdf": {
+    "testo": "Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico pdf 666 KB",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Data Pubblicazione:: 03 marzo 2022 Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico pdf 666 KB Anno 2021",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/Elenco-beneficiari-contributi-2020.pdf": {
+    "testo": "Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico pdf 216 KB",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Data Pubblicazione:: 19 febbraio 2021 Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico pdf 216 KB Anno 2020",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/Elenco-beneficiari-contributi-2019.pdf": {
+    "testo": "Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico deliberati dalla Banca d'Italia pdf 114 KB",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Data Pubblicazione:: 31 gennaio 2020 Elenco dei soggetti destinatari di contributi a scopo di beneficenza o per iniziative di interesse pubblico deliberati dalla Banca d'Italia pdf 114 KB Anno 2019",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/G20_TECHSPRINT_2021_GENERAL_REGULATION.pdf": {
+    "testo": "G20 Techsprint 2021 General Regulation pdf 634 KB",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Data Pubblicazione:: 05 novembre 2021 G20 Techsprint 2021 General Regulation pdf 634 KB (testo in inglese)",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.bancaditalia.it/focus/sostenibilita/contributi/Elenco_vincitori_iniziativa_Techsprint.pdf": {
+    "testo": "Elenco dei vincitori iniziativa Techsprint pdf 141 KB",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Data Pubblicazione:: 05 novembre 2021 Elenco dei vincitori iniziativa Techsprint pdf 141 KB",
+    "prima_vista": "2026-11-01"
+   },
+   "https://premioscuola.bancaditalia.it/": {
+    "testo": "Premio per la scuola \"Inventiamo una banconota\"",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "Premio per la scuola \"Inventiamo una banconota\"",
+    "prima_vista": "2026-11-01"
+   }
+  },
+  "ultimo_ok": "2026-11-01",
+  "fallimenti": 0
  }
 }
