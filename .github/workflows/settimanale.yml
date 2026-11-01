@@ -1,0 +1,34 @@
+name: Monitoraggio settimanale bandi
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  monitora:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python monitor.py
+      - name: Salva stato e report nel repository
+        run: |
+          git config user.name "bandi-monitor"
+          git config user.email "bandi-monitor@users.noreply.github.com"
+          git add state output
+          git diff --staged --quiet || git commit -m "Report bandi $(date +%F)"
+          git push
+      - name: Pubblica il report come segnalazione
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          head -c 60000 output/ultimo_report.md > corpo.md
+          gh issue create --title "Report bandi $(date +%F)" --body-file corpo.md
