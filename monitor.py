@@ -22,17 +22,22 @@ from bs4 import BeautifulSoup
 BASE = os.path.dirname(os.path.abspath(__file__))
 UA = "Mozilla/5.0 (compatible; VoiceBandiMonitor/1.0; uso interno monitoraggio bandi)"
 PAUSA = 1.5          # secondi di pausa tra una richiesta e l'altra (cortesia verso i siti)
-TIMEOUT = 25
+TIMEOUT = 45
 
 # Parole-chiave tematiche (peso 2) e parole che indicano un bando (peso 1)
 TEMI = ["anzian", "welfare", "fragilit", "longevit", "caregiver", "solitudin", "invecchiament",
         "innovazione sociale", "prossimit", "volontariat", "comunit", "partecipazione",
         "capacity", "aree interne", "non autosufficien", "senior", "ageing", "elderly",
-        "community", "loneliness", "terzo settore", "inclusione", "cohousing"]
+        "community", "loneliness", "terzo settore", "inclusione", "cohousing",
+        # bandi generalisti che includono anche gli anziani
+        "sociale", "socio-sanitar", "domiciliar", "generazion", "isolamento", "benessere",
+        "coesione", "povert", "famigli", "disabil", "persone fragili", "enti del terzo settore", "ets"]
 BANDO = ["bando", "avviso", "call", "contribut", "scadenz", "candidatur", "finanziament",
          "richiest", "invito", "manifestazione di interesse", "selezione", "premio",
          "8xmille", "8x1000", "otto per mille", "progetti"]
 SCARTA_HREF = ("mailto:", "tel:", "javascript:", "#")
+SCARTA_URL = ("/tag/", "/taxonomy/", "/author/", "/category/", "/settore/", "/pagina/", "/page/", "/feed", "wp-json", "/search")
+SCARTA_TESTO = ("esiti", "graduatori", "vincitor", "risultati", "podcast", "newsletter", "iscriviti", "rendicontazione")
 SCARTA_DOMINI = ("facebook.com", "twitter.com", "x.com", "instagram.com", "linkedin.com",
                  "youtube.com", "wa.me", "t.me", "whatsapp.com")
 
@@ -71,7 +76,7 @@ def punteggio(testo):
 def scarica(url):
     """Ritorna (codice_http, html, errore)."""
     ultimo = None
-    for tentativo in range(2):
+    for tentativo in range(3):
         try:
             r = requests.get(url, headers={"User-Agent": UA, "Accept-Language": "it-IT,it;q=0.9"},
                              timeout=TIMEOUT)
@@ -83,7 +88,7 @@ def scarica(url):
                 return r.status_code, "", ultimo
         except requests.RequestException as e:
             ultimo = type(e).__name__
-        time.sleep(2)
+        time.sleep(4 * (tentativo + 1))
     return 0, "", ultimo
 
 
@@ -100,6 +105,13 @@ def analizza(url, html):
             continue
         assoluto, _ = urldefrag(urljoin(url, href))
         if any(d in urlparse(assoluto).netloc for d in SCARTA_DOMINI):
+            continue
+        if any(x in assoluto.lower() for x in SCARTA_URL):
+            continue
+        m_anno = re.search(r"/uploads/(20\d\d)/", assoluto)
+        if m_anno and int(m_anno.group(1)) < oggi().year:
+            continue
+        if any(x in (assoluto + " " + a.get_text(" ")).lower() for x in SCARTA_TESTO):
             continue
         etichetta = re.sub(r"\s+", " ", a.get_text(" ")).strip()
         contesto = ""
@@ -164,7 +176,7 @@ def main():
                 pagine.append(url.rstrip("/") + "/" + pat.format(n=n))
 
         precedente = stato.get(sid, {})
-        primo_giro = not precedente
+        primo_giro = not precedente.get("ultimo_ok")
         testi, tutti, esiti = [], {}, []
         for p in pagine:
             codice, html, err = scarica(p)
@@ -203,12 +215,17 @@ def main():
     with open(a.stato, "w", encoding="utf-8") as fh:
         json.dump(stato, fh, ensure_ascii=False, indent=1)
 
+    def scaduto(v):
+        return bool(v["date"]) and max(dt.date.fromisoformat(x) for x in v["date"]) < adesso
+
     def futura(v):
         return any(dt.date.fromisoformat(x) >= adesso for x in v["date"])
 
     def ordina(lst):
         return sorted(lst, key=lambda v: (not futura(v), -v["punteggio"]))
 
+    nuovi = [v for v in nuovi if not scaduto(v)]
+    censimento = [v for v in censimento if not scaduto(v)]
     righe = [f"# Report bandi Voice — {adesso.strftime('%d/%m/%Y')}", ""]
     righe += [f"Fonti lette: {len(fonti) - len(problemi)} su {len(fonti)} · "
               f"nuovi link candidati: {len(nuovi)} · pagine modificate: {len(modificate)} · "
