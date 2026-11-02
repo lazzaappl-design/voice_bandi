@@ -3,7 +3,7 @@
   "nome": "CSVnet — bandi attivi (34 a fine ott. 2026)",
   "url": "https://infobandi.csvnet.it/home/bandi-attivi/",
   "categoria": "Aggregatore",
-  "hash": "bc551f97ddba1f72bfccfdedc568c64fdece5d1d",
+  "hash": "5fdbbf89cae47601a69622e39a0323a194c4022c",
   "link": {
    "https://infobandi.csvnet.it/daphne-2026-prevenire-e-combattere-la-violenza-di-genere-e-nei-confronti-dei-minori/": {
     "testo": "DAPHNE 2026: Prevenire e combattere la violenza di genere e nei confronti dei minori – scadenza posticipata",
@@ -77,6 +77,15 @@
     "contesto": "Otto per mille a gestione diretta statale: bando straordinario cultura&scienza Presidenza del Consiglio SCADENZA:30/11/2026 Il bando mette a disposizione oltre 19 milioni di euro per finanziare interventi straordinari di recupero, ristrutturazione, ampliamento e adeguamento di immobili di pregio arc",
     "prima_vista": "2026-11-01"
    },
+   "https://infobandi.csvnet.it/otto-per-mille-dellunione-induista-italiana-anno-2026/": {
+    "testo": "Otto per mille dell’Unione Induista Italiana – anno 2026",
+    "punteggio": 6,
+    "date": [
+     "2026-11-30"
+    ],
+    "contesto": "Otto per mille dell’Unione Induista Italiana – anno 2026 Unione Induista Italiana SCADENZA:30/11/2026 Aperta la possibilità per enti e associazioni di presentare progetti per accedere ai fondi dell’otto per mille dell’Unione Induista Italiana, a sostegno di iniziative di natura sociale, religiosa, c",
+    "prima_vista": "2026-11-02"
+   },
    "https://infobandi.csvnet.it/premio-giancarlo-pignone-2026-per-progetti-a-favore-delle-persone-con-disabilita/": {
     "testo": "Premio Giancarlo Pignone 2026 per progetti a favore delle persone con disabilità",
     "punteggio": 13,
@@ -93,15 +102,6 @@
      "2026-11-30"
     ],
     "contesto": "“Tackling Violence Against Children” – Bando 2026 per Italia e Senegal AXA Foundation for Human Progress SCADENZA:30/11/2026 Sostegno a progetti innovativi promossi da organizzazioni non profit per prevenire, individuare e contrastare la violenza e lo sfruttamento dei minori. Gli interventi possono ",
-    "prima_vista": "2026-11-01"
-   },
-   "https://infobandi.csvnet.it/international-trans-fund-contributi-2026/": {
-    "testo": "International Trans Fund – contributi 2026",
-    "punteggio": 5,
-    "date": [
-     "2026-12-01"
-    ],
-    "contesto": "International Trans Fund – contributi 2026 International Trans Fund SCADENZA:01/12/2026 Erogazione di contributi a organizzazioni condotte persone trans per aumentare la capacità del movimento trans di auto-organizzarsi e difendere i diritti, l'autodeterminazione e il benessere delle persone trans. ",
     "prima_vista": "2026-11-01"
    }
   },
@@ -2803,7 +2803,7 @@
   "nome": "Ministero della Salute — avvisi",
   "url": "https://www.salute.gov.it/portale/news/p3_2_1.jsp?lingua=italiano&menu=notizie&p=avvisi",
   "categoria": "Ministero",
-  "hash": "27dc620beccffc4f660affccf66e0b12db3f038c",
+  "hash": "52bd728f93e1088b389d9ab703839731c87c94d5",
   "link": {},
   "ultimo_ok": "2026-11-02",
   "fallimenti": 0
@@ -3745,112 +3745,112 @@
   "nome": "Obiettivo Europa — sostenibilità sociale",
   "url": "https://www.obiettivoeuropa.com/bandi/aperti/settore/sostenibilita-sociale/pagina/1/",
   "categoria": "Aggregatore",
-  "hash": "abb7077336f532efae7214a4662b4e77bf2e525a",
+  "hash": "dd741ca90aafe950c7af55475c4002a9d1f36c30",
   "link": {
-   "https://www.obiettivoeuropa.com/bandi/sardegna-bando-inclasse": {
-    "testo": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità",
-    "punteggio": 8,
+   "https://www.obiettivoeuropa.com/bandi/piemonte-sostegno-a-progetti-in-favore-dei-minori-vittime-di-violenza-assistita": {
+    "testo": "Scadenza: 17 novembre 2026 Aperto Piemonte – Sostegno a progetti in favore dei minori vittime di violenza assistita- Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e ",
+    "punteggio": 13,
     "date": [
-     "2026-11-11",
-     "2026-11-16"
+     "2026-11-16",
+     "2026-11-17"
     ],
-    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
-    "prima_vista": "2026-11-01"
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte – Sostegno a progetti in favore dei minori vittime di violenza assistita- Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Sostenibilità sociale Enti no profit / Enti del Terzo Settore Enti pubblici Enti terr",
+    "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/puglia-lotta-alla-violenza-nuovo-avviso-riservato-alle-case-rifugio-di-i-e-ii-livello": {
     "testo": "Scadenza: 16 novembre 2026 Aperto Puglia - Avviso pubblico per i contributi destinati alle Case rifugio di I e II livello Diritti e Cittadinanza Giustizia e sicurezza Inclusione Sociale e Solidarietà ",
-    "punteggio": 12,
+    "punteggio": 14,
+    "date": [
+     "2026-11-16",
+     "2026-11-17"
+    ],
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte – Sostegno a progetti in favore dei minori vittime di violenza assistita- Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Sostenibilità sociale Enti no profit / Enti del Terzo Settore Enti pubblici Enti terr",
+    "prima_vista": "2026-11-01"
+   },
+   "https://www.obiettivoeuropa.com/bandi/sardegna-bando-inclasse": {
+    "testo": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità",
+    "punteggio": 14,
     "date": [
      "2026-11-11",
-     "2026-11-16"
+     "2026-11-16",
+     "2026-11-17"
     ],
-    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte – Sostegno a progetti in favore dei minori vittime di violenza assistita- Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Sostenibilità sociale Enti no profit / Enti del Terzo Settore Enti pubblici Enti terr",
     "prima_vista": "2026-11-01"
    },
    "https://www.obiettivoeuropa.com/bandi/piemonte-misure-per-residenzialita-temporanea-e-accompagnamento-delle-persone-in-uscita-e-esecuzione-penale-esterna": {
     "testo": "Scadenza: 10 novembre 2026 Aperto Piemonte – Misure per residenzialità temporanea e accompagnamento delle persone in uscita e esecuzione penale esterna Inclusione Sociale e Solidarietà Sostenibilità s",
-    "punteggio": 12,
+    "punteggio": 13,
     "date": [
      "2026-11-10",
-     "2026-11-11",
-     "2026-11-16"
+     "2026-11-16",
+     "2026-11-17"
     ],
-    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte – Sostegno a progetti in favore dei minori vittime di violenza assistita- Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Sostenibilità sociale Enti no profit / Enti del Terzo Settore Enti pubblici Enti terr",
     "prima_vista": "2026-11-01"
    },
    "https://www.obiettivoeuropa.com/bandi/aics-intervento-multisettoriale-di-emergenza-ed-early-recovery-in-risposta-alla-crisi-umanitaria-protratta-in-siria-e-accesso-al-lavoro-dignitoso-per-le-fasce-vulnerabili-della-popolazione-siriana": {
     "testo": "Scadenza: 2 novembre 2026 Aperto AICS - Intervento multisettoriale di emergenza ed early recovery in risposta alla crisi umanitaria protratta in Siria e Accesso al lavoro dignitoso per le fasce vulner",
-    "punteggio": 14,
+    "punteggio": 13,
     "date": [
      "2026-11-02",
-     "2026-11-11",
-     "2026-11-16"
+     "2026-11-16",
+     "2026-11-17"
     ],
-    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte – Sostegno a progetti in favore dei minori vittime di violenza assistita- Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Sostenibilità sociale Enti no profit / Enti del Terzo Settore Enti pubblici Enti terr",
     "prima_vista": "2026-11-01"
    },
    "https://www.obiettivoeuropa.com/bandi/ministero-del-lavoro-e-delle-politiche-sociali-rebuilding-20": {
     "testo": "Scadenza: Non disponibile Aperto Ministero del Lavoro e delle Politiche Sociali - Rebuilding 2.0 Diritti e Cittadinanza Educazione e istruzione Formazione e lavoro Inclusione Sociale e Solidarietà Mar",
-    "punteggio": 10,
+    "punteggio": 13,
     "date": [
-     "2026-11-11",
-     "2026-11-16"
+     "2026-11-16",
+     "2026-11-17"
     ],
-    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte – Sostegno a progetti in favore dei minori vittime di violenza assistita- Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Sostenibilità sociale Enti no profit / Enti del Terzo Settore Enti pubblici Enti terr",
     "prima_vista": "2026-11-01"
    },
    "https://www.obiettivoeuropa.com/bandi/socialfare-planet-foundamentals-soluzioni-sistemiche-per-un-mondo-che-cambia": {
     "testo": "Scadenza: 18 giugno 2027 Aperto SocialFare - Planet Foundamentals: Soluzioni sistemiche per un mondo che cambia Ambiente e Sviluppo sostenibile Competitività imprese Inclusione Sociale e Solidarietà M",
-    "punteggio": 10,
+    "punteggio": 13,
     "date": [
-     "2026-11-11",
      "2026-11-16",
+     "2026-11-17",
      "2027-06-18"
     ],
-    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte – Sostegno a progetti in favore dei minori vittime di violenza assistita- Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Sostenibilità sociale Enti no profit / Enti del Terzo Settore Enti pubblici Enti terr",
     "prima_vista": "2026-11-01"
    },
    "https://www.obiettivoeuropa.com/bandi/piemonte-bando-corno-dafrica-2026-kenya": {
     "testo": "Scadenza: 4 novembre 2026 Aperto Piemonte – Bando Corno d'Africa 2026 Kenya Cooperazione Internazionale Diritti e Cittadinanza Inclusione Sociale e Solidarietà Marginalità sociale Salute e medicina So",
-    "punteggio": 12,
+    "punteggio": 14,
     "date": [
      "2026-11-04",
-     "2026-11-11",
-     "2026-11-16"
+     "2026-11-16",
+     "2026-11-17"
     ],
-    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte – Sostegno a progetti in favore dei minori vittime di violenza assistita- Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Sostenibilità sociale Enti no profit / Enti del Terzo Settore Enti pubblici Enti terr",
     "prima_vista": "2026-11-01"
    },
    "https://www.obiettivoeuropa.com/bandi/lombardia-inclusione-scolastica-per-studenti-con-disabilita-sensoriale-domande-famiglie": {
     "testo": "Scadenza: Ad esaurimento Aperto Lombardia - Inclusione scolastica per studenti con disabilità sensoriale: Domande famiglie Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e soc",
-    "punteggio": 14,
+    "punteggio": 17,
     "date": [
-     "2026-11-11",
-     "2026-11-16"
+     "2026-11-16",
+     "2026-11-17"
     ],
-    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte – Sostegno a progetti in favore dei minori vittime di violenza assistita- Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Sostenibilità sociale Enti no profit / Enti del Terzo Settore Enti pubblici Enti terr",
     "prima_vista": "2026-11-01"
    },
    "https://www.obiettivoeuropa.com/bandi/fondazione-cariplo-bando-innovawelfare": {
     "testo": "Scadenza: 25 marzo 2027 Aperto Fondazione Cariplo - Bando INNOVAWELFARE Diritti e Cittadinanza Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale ",
     "punteggio": 16,
     "date": [
-     "2026-11-11",
      "2026-11-16",
+     "2026-11-17",
      "2027-03-25"
     ],
-    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
-    "prima_vista": "2026-11-01"
-   },
-   "https://www.obiettivoeuropa.com/bandi/lombardia-bando-voucher-di-accelerazione": {
-    "testo": "Scadenza: 28 febbraio 2027 Aperto Lombardia - Bando Voucher di Accelerazione Ambiente e Sviluppo sostenibile Inclusione Sociale e Solidarietà Sostenibilità sociale Supporto alle imprese Tessile PMI Ba",
-    "punteggio": 8,
-    "date": [
-     "2026-11-11",
-     "2026-11-16",
-     "2027-02-28"
-    ],
-    "contesto": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità sociale Transizione digitale Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 202",
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte – Sostegno a progetti in favore dei minori vittime di violenza assistita- Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Sostenibilità sociale Enti no profit / Enti del Terzo Settore Enti pubblici Enti terr",
     "prima_vista": "2026-11-01"
    }
   },
@@ -4168,89 +4168,14 @@
   "nome": "Obiettivo Europa — tutti i bandi aperti (10 pagine)",
   "url": "https://www.obiettivoeuropa.com/bandi/aperti",
   "categoria": "Aggregatore",
-  "hash": "b5afb829ba26e6b6faa71b20cb68740f88f2f1a8",
+  "hash": "bd04b50cdcdcc0c455cd2af869f38562d186e670",
   "link": {
    "https://www.obiettivoeuropa.com/bandi/fondazione-cr-pesaro-bando-crowdfunding-arte-attivita-e-beni-culturali": {
     "testo": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Coop",
     "punteggio": 6,
     "date": [
-     "2027-01-15",
-     "2027-11-15"
-    ],
-    "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/valle-daosta-bando-neoimpresa": {
-    "testo": "Scadenza: 15 novembre 2027 In uscita Valle D'Aosta - Bando Neoimpresa Formazione e lavoro Imprenditoria femminile Supporto alle imprese Sviluppo e promozione territoriale Persone fisiche/Gruppi inform",
-    "punteggio": 6,
-    "date": [
-     "2027-01-15",
-     "2027-11-15"
-    ],
-    "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/piemonte-sostegno-a-progetti-in-favore-dei-minori-vittime-di-violenza-assistita-azione-5": {
-    "testo": "Scadenza: 17 novembre 2026 Aperto Piemonte - Sostegno a progetti in favore dei minori vittime di violenza assistita. Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e ",
-    "punteggio": 13,
-    "date": [
-     "2026-11-17",
-     "2027-01-15",
-     "2027-11-15"
-    ],
-    "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/cciaa-frosinone-latina-bando-per-la-concessione-di-contributi-per-sistemi-di-video-sorveglianza-digitale": {
-    "testo": "Scadenza: 20 gennaio 2027 Aperto CCIAA Frosinone-Latina - Bando per la concessione di contributi per sistemi di video sorveglianza digitale Giustizia e sicurezza Innovazione tecnologica, digitalizzazi",
-    "punteggio": 7,
-    "date": [
-     "2027-01-15",
-     "2027-01-20",
-     "2027-11-15"
-    ],
-    "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/toscana-smartoscana-datalake-finanzia-mento-di-progettualita-sui-dati": {
-    "testo": "Scadenza: Ad esaurimento Aperto Toscana - SmarToscana- Datalake. Finanzia mento di progettualità sui dati Innovazione tecnologica, digitalizzazione, ICT Sviluppo e promozione territoriale Transizione ",
-    "punteggio": 6,
-    "date": [
-     "2027-01-15",
-     "2027-11-15"
-    ],
-    "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/fondazione-comunitaria-del-vco-bando-alessi": {
-    "testo": "Scadenza: 25 novembre 2026 Aperto Fondazione Comunitaria del VCO - Bando Alessi Ambiente e Sviluppo sostenibile Arte e Cultura Diritti e Cittadinanza Servizi sociali e socio-sanitari Sport Sviluppo e ",
-    "punteggio": 10,
-    "date": [
-     "2026-11-25",
-     "2027-01-15",
-     "2027-11-15"
-    ],
-    "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/fondazione-cr-ascoli-piceno-giovani-famiglie-e-salute-mentale": {
-    "testo": "Scadenza: 8 gennaio 2027 Aperto Fondazione CR Ascoli Piceno - Giovani, famiglie e salute mentale Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Supporto psicologico Cooperative soci",
-    "punteggio": 14,
-    "date": [
-     "2027-01-08",
-     "2027-01-15",
-     "2027-11-15"
-    ],
-    "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/roma-capitale-avviso-pubblico-per-il-contributo-a-sostegno-di-attivita-e-progetti-culturali-ideati-promossi-e-realizzati-da-giovani-under-30-nel-territorio-del-municipio-i": {
-    "testo": "Scadenza: 21 novembre 2026 Aperto Roma Capitale- Avviso Pubblico per il contributo a sostegno di attività e progetti culturali ideati, promossi e realizzati da giovani under 30 nel territorio del Muni",
-    "punteggio": 9,
-    "date": [
-     "2026-11-21",
-     "2027-01-15",
-     "2027-11-15"
+     "2026-11-18",
+     "2027-01-15"
     ],
     "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
     "prima_vista": "2026-11-02"
@@ -4260,31 +4185,202 @@
     "punteggio": 6,
     "date": [
      "2026-11-18",
-     "2027-01-15",
-     "2027-11-15"
+     "2027-01-15"
     ],
     "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
     "prima_vista": "2026-11-02"
    },
-   "https://www.obiettivoeuropa.com/bandi/fed-edip-sviluppare-progetti-in-vista-di-possibili-futuri-progetti-di-interesse-comune-nel-settore-della-difesa-europea-e-predisporre-la-relativa-tabella-di-marcia-per-lattuazione": {
-    "testo": "Scadenza: 15 dicembre 2026 Aperto FED-EDIP - Sviluppare progetti in vista di possibili futuri Progetti di interesse comune nel settore della difesa europea e predisporre la relativa tabella di marcia ",
-    "punteggio": 3,
+   "https://www.obiettivoeuropa.com/bandi/fondazione-cr-ascoli-piceno-giovani-famiglie-e-salute-mentale": {
+    "testo": "Scadenza: 8 gennaio 2027 Aperto Fondazione CR Ascoli Piceno - Giovani, famiglie e salute mentale Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Supporto psicologico Cooperative soci",
+    "punteggio": 14,
     "date": [
-     "2026-12-15",
-     "2027-01-05",
-     "2027-01-14"
+     "2026-11-18",
+     "2027-01-08",
+     "2027-01-15"
     ],
-    "contesto": "Scadenza: 5 gennaio 2027 Aperto Sicilia - Contributi a sostegno degli interventi dell’impiantistica sportiva Ammodernamento impianti Impianti sportivi Enti pubblici Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 14 gennaio 2027 Aperto Sicilia - Potenziare la rete ospedaliera region",
+    "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/toscana-smartoscana-datalake-finanzia-mento-di-progettualita-sui-dati": {
+    "testo": "Scadenza: Ad esaurimento Aperto Toscana - SmarToscana- Datalake. Finanzia mento di progettualità sui dati Innovazione tecnologica, digitalizzazione, ICT Sviluppo e promozione territoriale Transizione ",
+    "punteggio": 6,
+    "date": [
+     "2026-11-18",
+     "2027-01-15"
+    ],
+    "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/cciaa-frosinone-latina-bando-per-la-concessione-di-contributi-per-sistemi-di-video-sorveglianza-digitale": {
+    "testo": "Scadenza: 20 gennaio 2027 Aperto CCIAA Frosinone-Latina - Bando per la concessione di contributi per sistemi di video sorveglianza digitale Giustizia e sicurezza Innovazione tecnologica, digitalizzazi",
+    "punteggio": 7,
+    "date": [
+     "2026-11-18",
+     "2027-01-15",
+     "2027-01-20"
+    ],
+    "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/valle-daosta-bando-neoimpresa": {
+    "testo": "Scadenza: 15 novembre 2027 In uscita Valle D'Aosta - Bando Neoimpresa Formazione e lavoro Imprenditoria femminile Supporto alle imprese Sviluppo e promozione territoriale Persone fisiche/Gruppi inform",
+    "punteggio": 13,
+    "date": [
+     "2026-11-17",
+     "2027-11-15"
+    ],
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte - Sostegno a progetti in favore dei minori vittime di violenza assistita. Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Enti no profit / Enti del Terzo Settore Enti pubblici Bandi regionali / locali Scaden",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/piemonte-sostegno-a-progetti-in-favore-dei-minori-vittime-di-violenza-assistita-azione-5": {
+    "testo": "Scadenza: 17 novembre 2026 Aperto Piemonte - Sostegno a progetti in favore dei minori vittime di violenza assistita. Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e ",
+    "punteggio": 13,
+    "date": [
+     "2026-11-17",
+     "2027-11-15"
+    ],
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte - Sostegno a progetti in favore dei minori vittime di violenza assistita. Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Enti no profit / Enti del Terzo Settore Enti pubblici Bandi regionali / locali Scaden",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/toscana-avviso-pubblico-per-il-finanziamento-di-attivita-di-animazione-finalizzate-alla-creazione-di-reti-di-welfare-territoriale-per-la-conciliazione-vita-lavoro": {
+    "testo": "Scadenza: 16 novembre 2026 Aperto Toscana - Avviso pubblico per il finanziamento di attività di animazione finalizzate alla creazione di reti di welfare territoriale per la conciliazione vita-lavoro 2",
+    "punteggio": 16,
+    "date": [
+     "2026-11-16",
+     "2026-11-18",
+     "2027-01-15"
+    ],
+    "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/fondazione-comunitaria-del-vco-bando-alessi": {
+    "testo": "Scadenza: 25 novembre 2026 Aperto Fondazione Comunitaria del VCO - Bando Alessi Ambiente e Sviluppo sostenibile Arte e Cultura Diritti e Cittadinanza Servizi sociali e socio-sanitari Sport Sviluppo e ",
+    "punteggio": 10,
+    "date": [
+     "2026-11-18",
+     "2026-11-25",
+     "2027-01-15"
+    ],
+    "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/lazio-avviso-pubblico-per-lampliamento-e-il-potenziamento-delle-strutture-antiviolenza-regionali": {
+    "testo": "Scadenza: 25 gennaio 2027 In uscita Lazio - Avviso Pubblico per l’ampliamento e il potenziamento delle strutture antiviolenza regionali Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi ",
+    "punteggio": 13,
+    "date": [
+     "2026-11-18",
+     "2027-01-15",
+     "2027-01-25"
+    ],
+    "contesto": "Scadenza: 15 gennaio 2027 Aperto Fondazione CR Pesaro - Bando Crowdfunding 2027 Arte e Cultura Festival e mostre Fiere ed eventi Manifestazioni culturali Musica Sviluppo e promozione territoriale Cooperative sociali Enti Ecclesiastici Enti no profit / Enti del Terzo Settore Imprese sociali/Società b",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/cciaa-roma-bando-idea-innovativa-la-nuova-imprenditorialita-al-femminile": {
+    "testo": "Scadenza: 18 dicembre 2026 Aperto CCIAA Roma - Bando Idea innovativa, la nuova imprenditorialità al femminile Acquisto macchinari e/o attrezzature Brevetti e licenze Competitività imprese Consulenza s",
+    "punteggio": 15,
+    "date": [
+     "2026-11-17",
+     "2026-12-18",
+     "2027-11-15"
+    ],
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte - Sostegno a progetti in favore dei minori vittime di violenza assistita. Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Enti no profit / Enti del Terzo Settore Enti pubblici Bandi regionali / locali Scaden",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/cciaa-frosinone-latina-bando-per-lo-sviluppo-dei-territori": {
+    "testo": "Scadenza: 26 febbraio 2027 Aperto CCIAA Frosinone-Latina - Bando per lo sviluppo dei territori Commercio Sviluppo e promozione territoriale Turismo Enti territoriali/Enti locali Bandi regionali / loca",
+    "punteggio": 12,
+    "date": [
+     "2026-11-16",
+     "2027-02-26"
+    ],
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Puglia - Avviso pubblico per i contributi destinati alle Case rifugio di I e II livello Diritti e Cittadinanza Giustizia e sicurezza Inclusione Sociale e Solidarietà Sostenibilità sociale Enti no profit / Enti del Terzo Settore Imprese Bandi regionali / locali Scade",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/sicilia-contributi-a-sostegno-degli-interventi-dellimpiantistica-sportiva": {
     "testo": "Scadenza: 5 gennaio 2027 Aperto Sicilia - Contributi a sostegno degli interventi dell’impiantistica sportiva Ammodernamento impianti Impianti sportivi Enti pubblici Enti territoriali/Enti locali Bandi",
-    "punteggio": 2,
+    "punteggio": 12,
     "date": [
+     "2026-11-16",
      "2027-01-05",
-     "2027-01-14"
+     "2027-02-26"
     ],
-    "contesto": "Scadenza: 5 gennaio 2027 Aperto Sicilia - Contributi a sostegno degli interventi dell’impiantistica sportiva Ammodernamento impianti Impianti sportivi Enti pubblici Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 14 gennaio 2027 Aperto Sicilia - Potenziare la rete ospedaliera region",
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Puglia - Avviso pubblico per i contributi destinati alle Case rifugio di I e II livello Diritti e Cittadinanza Giustizia e sicurezza Inclusione Sociale e Solidarietà Sostenibilità sociale Enti no profit / Enti del Terzo Settore Imprese Bandi regionali / locali Scade",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/lombardia-fuoriclasse-percorsi-di-contrasto-alla-poverta-educativa-di-minori-e-giovani": {
+    "testo": "Scadenza: 10 dicembre 2026 Aperto Lombardia – Fuoriclasse: Percorsi di contrasto alla povertà educativa di minori e giovani Arte e Cultura Diritti e Cittadinanza Educazione e istruzione Inclusione Soc",
+    "punteggio": 15,
+    "date": [
+     "2026-11-17",
+     "2026-12-10",
+     "2027-11-15"
+    ],
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte - Sostegno a progetti in favore dei minori vittime di violenza assistita. Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Enti no profit / Enti del Terzo Settore Enti pubblici Bandi regionali / locali Scaden",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/piemonte-azioni-di-informazione-comunicazione-e-formazione-nelle-scuole-sul-tema-della-violenza-di-genere-azione-3": {
+    "testo": "Scadenza: 17 novembre 2026 Aperto Piemonte - Azioni di informazione, comunicazione e formazione nelle scuole sul tema della violenza di genere - Azione 3 Diritti e Cittadinanza Educazione e istruzione",
+    "punteggio": 12,
+    "date": [
+     "2026-11-16",
+     "2026-11-17",
+     "2027-02-26"
+    ],
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Puglia - Avviso pubblico per i contributi destinati alle Case rifugio di I e II livello Diritti e Cittadinanza Giustizia e sicurezza Inclusione Sociale e Solidarietà Sostenibilità sociale Enti no profit / Enti del Terzo Settore Imprese Bandi regionali / locali Scade",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/fed-edip-sviluppare-progetti-in-vista-di-possibili-futuri-progetti-di-interesse-comune-nel-settore-della-difesa-europea-e-predisporre-la-relativa-tabella-di-marcia-per-lattuazione": {
+    "testo": "Scadenza: 15 dicembre 2026 Aperto FED-EDIP - Sviluppare progetti in vista di possibili futuri Progetti di interesse comune nel settore della difesa europea e predisporre la relativa tabella di marcia ",
+    "punteggio": 13,
+    "date": [
+     "2026-11-17",
+     "2026-12-15",
+     "2027-11-15"
+    ],
+    "contesto": "Scadenza: 17 novembre 2026 Aperto Piemonte - Sostegno a progetti in favore dei minori vittime di violenza assistita. Azione 5 Diritti e Cittadinanza Inclusione Sociale e Solidarietà Servizi sociali e socio-sanitari Enti no profit / Enti del Terzo Settore Enti pubblici Bandi regionali / locali Scaden",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/puglia-lotta-alla-violenza-nuovo-avviso-riservato-alle-case-rifugio-di-i-e-ii-livello": {
+    "testo": "Scadenza: 16 novembre 2026 Aperto Puglia - Avviso pubblico per i contributi destinati alle Case rifugio di I e II livello Diritti e Cittadinanza Giustizia e sicurezza Inclusione Sociale e Solidarietà ",
+    "punteggio": 12,
+    "date": [
+     "2026-11-16",
+     "2027-02-26"
+    ],
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Puglia - Avviso pubblico per i contributi destinati alle Case rifugio di I e II livello Diritti e Cittadinanza Giustizia e sicurezza Inclusione Sociale e Solidarietà Sostenibilità sociale Enti no profit / Enti del Terzo Settore Imprese Bandi regionali / locali Scade",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/piemonte-sostegno-a-percorsi-di-inserimentoreinserimento-lavorativo-delle-donne-vittime-di-violenza-sole-e-con-figli-azione-1": {
+    "testo": "Scadenza: 17 novembre 2026 Aperto Piemonte - Sostegno a percorsi di inserimento/reinserimento lavorativo delle donne vittime di violenza - Azione 1 Diritti e Cittadinanza Formazione e lavoro Imprendit",
+    "punteggio": 12,
+    "date": [
+     "2026-11-16",
+     "2026-11-17",
+     "2027-02-26"
+    ],
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Puglia - Avviso pubblico per i contributi destinati alle Case rifugio di I e II livello Diritti e Cittadinanza Giustizia e sicurezza Inclusione Sociale e Solidarietà Sostenibilità sociale Enti no profit / Enti del Terzo Settore Imprese Bandi regionali / locali Scade",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/sardegna-bando-recupero-primario-einstein-telescope-concessione-di-contributi-per-interventi-di-recupero-primario-degli-edifici-ricadenti-nei-centri-di-antica-e-prima-formazione-e-nelle-zone-urbanistiche-a": {
+    "testo": "Scadenza: 30 novembre 2026 Aperto Sardegna - Bando recupero primario Einstein Telescope: concessione di contributi per interventi di recupero primario degli edifici ricadenti nei centri di antica e pr",
+    "punteggio": 14,
+    "date": [
+     "2026-11-16",
+     "2026-11-30",
+     "2027-02-26"
+    ],
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Puglia - Avviso pubblico per i contributi destinati alle Case rifugio di I e II livello Diritti e Cittadinanza Giustizia e sicurezza Inclusione Sociale e Solidarietà Sostenibilità sociale Enti no profit / Enti del Terzo Settore Imprese Bandi regionali / locali Scade",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/sardegna-avviso-pubblico-per-la-concessione-di-finanziamenti-in-favore-degli-enti-locali": {
+    "testo": "Scadenza: 13 novembre 2026 Aperto Sardegna - Avviso pubblico per la concessione di finanziamenti in favore degli Enti locali Enti pubblici Enti territoriali/Enti locali Bandi regionali / locali",
+    "punteggio": 13,
+    "date": [
+     "2026-11-13",
+     "2026-11-16",
+     "2027-02-26"
+    ],
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Puglia - Avviso pubblico per i contributi destinati alle Case rifugio di I e II livello Diritti e Cittadinanza Giustizia e sicurezza Inclusione Sociale e Solidarietà Sostenibilità sociale Enti no profit / Enti del Terzo Settore Imprese Bandi regionali / locali Scade",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/sicilia-potenziare-la-rete-ospedaliera-regionale": {
@@ -4297,78 +4393,14 @@
     "contesto": "Scadenza: 30 maggio 2028 Aperto FED - Supporto al funzionamento dei SEAP, anche ai fini della creazione, gestione e mantenimento di pool di prontezza industriale della difesa Cooperazione Internazionale Difesa Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici Organiz",
     "prima_vista": "2026-11-02"
    },
-   "https://www.obiettivoeuropa.com/bandi/piemonte-azioni-di-informazione-comunicazione-e-formazione-nelle-scuole-sul-tema-della-violenza-di-genere-azione-3": {
-    "testo": "Scadenza: 17 novembre 2026 Aperto Piemonte - Azioni di informazione, comunicazione e formazione nelle scuole sul tema della violenza di genere - Azione 3 Diritti e Cittadinanza Educazione e istruzione",
-    "punteggio": 10,
+   "https://www.obiettivoeuropa.com/bandi/sicilia-bando-piu-artigianato-contributi-su-finanziamenti-per-la-realizzazione-di-investimenti": {
+    "testo": "Scadenza: Ad esaurimento Aperto Sicilia – Bando Più Artigianato: contributi su finanziamenti per la realizzazione di investimenti Acquisto macchinari e/o attrezzature Acquisto macchine e strumentazion",
+    "punteggio": 13,
     "date": [
-     "2026-11-17",
-     "2027-01-05",
-     "2027-01-14"
+     "2026-11-16",
+     "2027-02-26"
     ],
-    "contesto": "Scadenza: 5 gennaio 2027 Aperto Sicilia - Contributi a sostegno degli interventi dell’impiantistica sportiva Ammodernamento impianti Impianti sportivi Enti pubblici Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 14 gennaio 2027 Aperto Sicilia - Potenziare la rete ospedaliera region",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/piemonte-percorsi-di-sensibilizzazione-sul-tema-della-violenza-di-genere-con-soggetti-significativi-della-rete-azione": {
-    "testo": "Scadenza: 17 novembre 2026 Aperto Piemonte - Percorsi di sensibilizzazione sul tema della violenza di genere con soggetti significativi della rete - Azione 4 Diritti e Cittadinanza Educazione e istruz",
-    "punteggio": 5,
-    "date": [
-     "2026-11-17",
-     "2028-05-30"
-    ],
-    "contesto": "Scadenza: 30 maggio 2028 Aperto FED - Supporto al funzionamento dei SEAP, anche ai fini della creazione, gestione e mantenimento di pool di prontezza industriale della difesa Cooperazione Internazionale Difesa Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici Organiz",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/lazio-avviso-per-la-concessione-di-contributi-a-sostegno-di-progetti-sociali-e-di-digitalizzazione-dello-spettacolo-dal-vivo-nelle-scuole": {
-    "testo": "Scadenza: 10 novembre 2026 Aperto Lazio - Avviso per la concessione di contributi a sostegno di progetti sociali e di digitalizzazione dello spettacolo dal vivo nelle scuole Arte e Cultura Educazione ",
-    "punteggio": 12,
-    "date": [
-     "2026-11-10",
-     "2027-01-05",
-     "2027-01-14"
-    ],
-    "contesto": "Scadenza: 5 gennaio 2027 Aperto Sicilia - Contributi a sostegno degli interventi dell’impiantistica sportiva Ammodernamento impianti Impianti sportivi Enti pubblici Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 14 gennaio 2027 Aperto Sicilia - Potenziare la rete ospedaliera region",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/lombardia-fuoriclasse-percorsi-di-contrasto-alla-poverta-educativa-di-minori-e-giovani": {
-    "testo": "Scadenza: 10 dicembre 2026 Aperto Lombardia – Fuoriclasse: Percorsi di contrasto alla povertà educativa di minori e giovani Arte e Cultura Diritti e Cittadinanza Educazione e istruzione Inclusione Soc",
-    "punteggio": 12,
-    "date": [
-     "2026-12-10",
-     "2027-01-05",
-     "2027-01-14"
-    ],
-    "contesto": "Scadenza: 5 gennaio 2027 Aperto Sicilia - Contributi a sostegno degli interventi dell’impiantistica sportiva Ammodernamento impianti Impianti sportivi Enti pubblici Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 14 gennaio 2027 Aperto Sicilia - Potenziare la rete ospedaliera region",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/piemonte-sostegno-a-percorsi-di-inserimentoreinserimento-lavorativo-delle-donne-vittime-di-violenza-sole-e-con-figli-azione-1": {
-    "testo": "Scadenza: 17 novembre 2026 Aperto Piemonte - Sostegno a percorsi di inserimento/reinserimento lavorativo delle donne vittime di violenza - Azione 1 Diritti e Cittadinanza Formazione e lavoro Imprendit",
-    "punteggio": 6,
-    "date": [
-     "2026-11-17",
-     "2027-01-05",
-     "2027-01-14"
-    ],
-    "contesto": "Scadenza: 5 gennaio 2027 Aperto Sicilia - Contributi a sostegno degli interventi dell’impiantistica sportiva Ammodernamento impianti Impianti sportivi Enti pubblici Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 14 gennaio 2027 Aperto Sicilia - Potenziare la rete ospedaliera region",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/cciaa-roma-bando-idea-innovativa-la-nuova-imprenditorialita-al-femminile": {
-    "testo": "Scadenza: 18 dicembre 2026 Aperto CCIAA Roma - Bando Idea innovativa, la nuova imprenditorialità al femminile Acquisto macchinari e/o attrezzature Brevetti e licenze Competitività imprese Consulenza s",
-    "punteggio": 4,
-    "date": [
-     "2026-12-18",
-     "2028-05-30"
-    ],
-    "contesto": "Scadenza: 30 maggio 2028 Aperto FED - Supporto al funzionamento dei SEAP, anche ai fini della creazione, gestione e mantenimento di pool di prontezza industriale della difesa Cooperazione Internazionale Difesa Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici Organiz",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/sicilia-interventi-di-adeguamento-ri-funzionalizzazione-e-ristrutturazione-di-immobili-pubblici-compresa-la-fornitura-di-attrezzature-ed-arredi-da-adibire-ad-alloggi-per-persone-e-nuclei-familiari-piu-bisognosi-ed-in-condizione-di-marginalita-social": {
-    "testo": "Scadenza: 20 gennaio 2027 Aperto Sicilia - Interventi di adeguamento, ri-funzionalizzazione e ristrutturazione di immobili pubblici (compresa la fornitura di attrezzature ed arredi), da adibire ad all",
-    "punteggio": 1,
-    "date": [
-     "2027-01-20",
-     "2028-05-30"
-    ],
-    "contesto": "Scadenza: 30 maggio 2028 Aperto FED - Supporto al funzionamento dei SEAP, anche ai fini della creazione, gestione e mantenimento di pool di prontezza industriale della difesa Cooperazione Internazionale Difesa Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici Organiz",
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Puglia - Avviso pubblico per i contributi destinati alle Case rifugio di I e II livello Diritti e Cittadinanza Giustizia e sicurezza Inclusione Sociale e Solidarietà Sostenibilità sociale Enti no profit / Enti del Terzo Settore Imprese Bandi regionali / locali Scade",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/fed-supporto-al-funzionamento-dei-seap-anche-ai-fini-della-creazione-gestione-e-mantenimento-di-pool-di-prontezza-industriale": {
@@ -4380,63 +4412,14 @@
     "contesto": "Scadenza: 30 maggio 2028 Aperto FED - Supporto al funzionamento dei SEAP, anche ai fini della creazione, gestione e mantenimento di pool di prontezza industriale della difesa Cooperazione Internazionale Difesa Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici Organiz",
     "prima_vista": "2026-11-02"
    },
-   "https://www.obiettivoeuropa.com/bandi/sardegna-bando-recupero-primario-einstein-telescope-concessione-di-contributi-per-interventi-di-recupero-primario-degli-edifici-ricadenti-nei-centri-di-antica-e-prima-formazione-e-nelle-zone-urbanistiche-a": {
-    "testo": "Scadenza: 30 novembre 2026 Aperto Sardegna - Bando recupero primario Einstein Telescope: concessione di contributi per interventi di recupero primario degli edifici ricadenti nei centri di antica e pr",
-    "punteggio": 5,
+   "https://www.obiettivoeuropa.com/bandi/imreg-sostegno-alle-misure-di-informazione-relative-alla-politica-di-coesione-dellue": {
+    "testo": "Scadenza: 13 gennaio 2027 Aperto IMREG - Sostegno alle misure di informazione relative alla politica di coesione dell'UE Diritti e Cittadinanza Fiere ed eventi Giustizia e sicurezza Media e informazio",
+    "punteggio": 7,
     "date": [
-     "2026-11-30",
+     "2027-01-13",
      "2028-05-30"
     ],
     "contesto": "Scadenza: 30 maggio 2028 Aperto FED - Supporto al funzionamento dei SEAP, anche ai fini della creazione, gestione e mantenimento di pool di prontezza industriale della difesa Cooperazione Internazionale Difesa Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici Organiz",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/sardegna-bando-inclasse": {
-    "testo": "Scadenza: 11 novembre 2026 Aperto Sardegna - Bando INCLasse Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, ICT Sostenibilità",
-    "punteggio": 6,
-    "date": [
-     "2026-11-11",
-     "2028-05-30"
-    ],
-    "contesto": "Scadenza: 30 maggio 2028 Aperto FED - Supporto al funzionamento dei SEAP, anche ai fini della creazione, gestione e mantenimento di pool di prontezza industriale della difesa Cooperazione Internazionale Difesa Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici Organiz",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/horizon-europe-cluster-5-bando-mobilita-horizon-cl5-2027-03": {
-    "testo": "Scadenza: 14 aprile 2027 In uscita Horizon Europe – Cluster 5: bando Mobilità (HORIZON-CL5-2027-03) Ambiente e Sviluppo sostenibile Economia circolare Energie Rinnovabili Mobilità sostenibile Transizi",
-    "punteggio": 2,
-    "date": [
-     "2027-04-14",
-     "2028-05-30"
-    ],
-    "contesto": "Scadenza: 30 maggio 2028 Aperto FED - Supporto al funzionamento dei SEAP, anche ai fini della creazione, gestione e mantenimento di pool di prontezza industriale della difesa Cooperazione Internazionale Difesa Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici Organiz",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/cciaa-frosinone-latina-bando-per-lo-sviluppo-dei-territori": {
-    "testo": "Scadenza: 26 febbraio 2027 Aperto CCIAA Frosinone-Latina - Bando per lo sviluppo dei territori Commercio Sviluppo e promozione territoriale Turismo Enti territoriali/Enti locali Bandi regionali / loca",
-    "punteggio": 2,
-    "date": [
-     "2027-02-26",
-     "2028-05-30"
-    ],
-    "contesto": "Scadenza: 30 maggio 2028 Aperto FED - Supporto al funzionamento dei SEAP, anche ai fini della creazione, gestione e mantenimento di pool di prontezza industriale della difesa Cooperazione Internazionale Difesa Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici Organiz",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/crea-partenariati-per-il-giornalismo-collaborazioni-e-pluralismo": {
-    "testo": "Scadenza: 4 febbraio 2027 Aperto CREA – Partenariati per il giornalismo: collaborazioni e pluralismo Consulenza specializzata Cooperazione Internazionale Diritti e Cittadinanza Editoria e informazione",
-    "punteggio": 5,
-    "date": [
-     "2027-02-04",
-     "2028-05-30"
-    ],
-    "contesto": "Scadenza: 30 maggio 2028 Aperto FED - Supporto al funzionamento dei SEAP, anche ai fini della creazione, gestione e mantenimento di pool di prontezza industriale della difesa Cooperazione Internazionale Difesa Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici Organiz",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/europa-creativa-sviluppo-del-pubblico-ed-educazione-al-cinema": {
-    "testo": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica",
-    "punteggio": 5,
-    "date": [
-     "2027-03-02"
-    ],
-    "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/imcap-sostegno-alle-misure-di-informazione-sulla-politica-agricola-comune": {
@@ -4444,29 +4427,9 @@
     "punteggio": 5,
     "date": [
      "2027-01-21",
-     "2027-03-02"
+     "2028-05-30"
     ],
-    "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/eit-urban-mobility-bando-per-lespansione-del-mercato-delle-pmi": {
-    "testo": "Scadenza: 1 dicembre 2026 Aperto EIT Urban Mobility - Bando per l'espansione del mercato delle PMI Ambiente e Sviluppo sostenibile Innovazione tecnologica, digitalizzazione, ICT Mobilità sostenibile S",
-    "punteggio": 6,
-    "date": [
-     "2026-12-01",
-     "2027-03-02"
-    ],
-    "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/imreg-sostegno-alle-misure-di-informazione-relative-alla-politica-di-coesione-dellue": {
-    "testo": "Scadenza: 13 gennaio 2027 Aperto IMREG - Sostegno alle misure di informazione relative alla politica di coesione dell'UE Diritti e Cittadinanza Fiere ed eventi Giustizia e sicurezza Media e informazio",
-    "punteggio": 7,
-    "date": [
-     "2027-01-13",
-     "2027-03-02"
-    ],
-    "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
+    "contesto": "Scadenza: 30 maggio 2028 Aperto FED - Supporto al funzionamento dei SEAP, anche ai fini della creazione, gestione e mantenimento di pool di prontezza industriale della difesa Cooperazione Internazionale Difesa Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici Organiz",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/puglia-atc-ta-bando-di-miglioramento-ambientale-per-lincremento-faunistico": {
@@ -4474,36 +4437,6 @@
     "punteggio": 6,
     "date": [
      "2026-11-13",
-     "2027-03-02"
-    ],
-    "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/digital-cyberhubs-capacity-building": {
-    "testo": "Scadenza: 16 marzo 2027 Aperto DIGITAL - CyberHUBs Capacity Building Cooperazione Internazionale Formazione e lavoro Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici ",
-    "punteggio": 3,
-    "date": [
-     "2026-12-04",
-     "2027-03-16"
-    ],
-    "contesto": "Scadenza: 4 dicembre 2026 Aperto CCIAA Cuneo - Accompagnamento in tema Intelligenza Artificiale e modelli ESG Ambiente e Sviluppo sostenibile Formazione e lavoro Intelligenza Artificiale Supporto alle imprese Associazioni di categoria Bandi regionali / locali Scadenza: 16 marzo 2027 Aperto DIGITAL -",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/contributi-a-sostegno-di-progetti-transnazionali-sulla-formazione-dei-professionisti-della-giustizia-in-materia-di-diritto-civile-diritto-penale-o-diritti-fondamentali": {
-    "testo": "Scadenza: 4 marzo 2027 Aperto JUST - Contributi a sostegno di progetti transnazionali sulla formazione dei professionisti della giustizia in materia di diritto civile, diritto penale e diritti fondame",
-    "punteggio": 7,
-    "date": [
-     "2027-03-02",
-     "2027-03-04"
-    ],
-    "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/sardegna-sostegno-alla-transizione-digitale-degli-enti-locali-e-per-laccessibilita-ai-dati-degli-archivi-comunali": {
-    "testo": "Scadenza: 20 novembre 2026 Aperto Sardegna - Sostegno alla transizione digitale degli enti locali e per l’accessibilità ai dati degli archivi comunali Innovazione tecnologica, digitalizzazione, ICT Sv",
-    "punteggio": 5,
-    "date": [
-     "2026-11-20",
      "2027-03-02"
     ],
     "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
@@ -4519,402 +4452,453 @@
     "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
     "prima_vista": "2026-11-02"
    },
-   "https://www.obiettivoeuropa.com/bandi/europa-globale-ndici-programma-di-mobilita-accademica-intra-africana": {
-    "testo": "Scadenza: 2 febbraio 2027 Aperto Europa Globale (NDICI) - Programma di mobilità accademica intra-africana Ambiente e Sviluppo sostenibile Cooperazione Internazionale Educazione e istruzione Formazione",
+   "https://www.obiettivoeuropa.com/bandi/ministero-dellinterno-misure-di-rvar-con-attivita-informativeformative-sensibilizzazione-e-counselling": {
+    "testo": "Scadenza: 18 novembre 2026 Aperto Ministero dell'Interno - Misure di RVA&R con attività informative/formative, sensibilizzazione e counselling Asilo e migrazione Diritti e Cittadinanza Inclusione Soci",
     "punteggio": 9,
     "date": [
-     "2027-02-02",
+     "2026-11-18",
      "2027-03-02"
     ],
     "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
     "prima_vista": "2026-11-02"
    },
-   "https://www.obiettivoeuropa.com/bandi/cciaa-cuneo-accompagnamento-in-tema-intelligenza-artificiale-e-modelli-esg": {
-    "testo": "Scadenza: 4 dicembre 2026 Aperto CCIAA Cuneo - Accompagnamento in tema Intelligenza Artificiale e modelli ESG Ambiente e Sviluppo sostenibile Formazione e lavoro Intelligenza Artificiale Supporto alle",
+   "https://www.obiettivoeuropa.com/bandi/digital-cyberhubs-capacity-building": {
+    "testo": "Scadenza: 16 marzo 2027 Aperto DIGITAL - CyberHUBs Capacity Building Cooperazione Internazionale Formazione e lavoro Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici ",
     "punteggio": 3,
     "date": [
-     "2026-12-04",
-     "2027-03-16"
+     "2027-03-16",
+     "2028-05-30"
     ],
-    "contesto": "Scadenza: 4 dicembre 2026 Aperto CCIAA Cuneo - Accompagnamento in tema Intelligenza Artificiale e modelli ESG Ambiente e Sviluppo sostenibile Formazione e lavoro Intelligenza Artificiale Supporto alle imprese Associazioni di categoria Bandi regionali / locali Scadenza: 16 marzo 2027 Aperto DIGITAL -",
+    "contesto": "Scadenza: 30 maggio 2028 Aperto FED - Supporto al funzionamento dei SEAP, anche ai fini della creazione, gestione e mantenimento di pool di prontezza industriale della difesa Cooperazione Internazionale Difesa Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici Organiz",
     "prima_vista": "2026-11-02"
    },
-   "https://www.obiettivoeuropa.com/bandi/toscana-finanziamento-di-percorsi-formativi-in-materia-di-formazione-obbligatoria-per-lo-svolgimento-dellattivita-professionale-di-operatriceoperatore-forestale": {
-    "testo": "Scadenza: 15 gennaio 2027 Aperto Toscana – Finanziamento di percorsi formativi in materia di formazione obbligatoria per lo svolgimento dell’attività professionale di Operatrice/Operatore Forestale Ag",
-    "punteggio": 9,
+   "https://www.obiettivoeuropa.com/bandi/contributi-a-sostegno-di-progetti-transnazionali-sulla-formazione-dei-professionisti-della-giustizia-in-materia-di-diritto-civile-diritto-penale-o-diritti-fondamentali": {
+    "testo": "Scadenza: 4 marzo 2027 Aperto JUST - Contributi a sostegno di progetti transnazionali sulla formazione dei professionisti della giustizia in materia di diritto civile, diritto penale e diritti fondame",
+    "punteggio": 7,
     "date": [
-     "2026-12-18",
-     "2027-01-15"
+     "2027-03-04",
+     "2028-05-30"
     ],
-    "contesto": "Scadenza: 18 dicembre 2026 Aperto Fondazione Compagnia di San Paolo – Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell’intelligenza artificiale nell’economia sociale Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Transizione digitale Cooperativ",
+    "contesto": "Scadenza: 30 maggio 2028 Aperto FED - Supporto al funzionamento dei SEAP, anche ai fini della creazione, gestione e mantenimento di pool di prontezza industriale della difesa Cooperazione Internazionale Difesa Giustizia e sicurezza Innovazione tecnologica, digitalizzazione, ICT Enti pubblici Organiz",
     "prima_vista": "2026-11-02"
    },
-   "https://www.obiettivoeuropa.com/bandi/abruzzo-rinaturalizzazione-e-miglioramento-di-superfici-forestali-al-fine-di-aumentarne-la-resilienza-contro-gli-incendi": {
-    "testo": "Scadenza: 15 dicembre 2026 Aperto Abruzzo – Rinaturalizzazione e miglioramento di superfici forestali al fine di aumentarne la resilienza contro gli incendi Ambiente e Sviluppo sostenibile Servizi Ent",
-    "punteggio": 8,
+   "https://www.obiettivoeuropa.com/bandi/europa-creativa-sviluppo-del-pubblico-ed-educazione-al-cinema": {
+    "testo": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica",
+    "punteggio": 5,
     "date": [
-     "2026-12-15",
-     "2026-12-18"
+     "2027-03-02"
     ],
-    "contesto": "Scadenza: 18 dicembre 2026 Aperto Fondazione Compagnia di San Paolo – Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell’intelligenza artificiale nell’economia sociale Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Transizione digitale Cooperativ",
+    "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
     "prima_vista": "2026-11-02"
    },
-   "https://www.obiettivoeuropa.com/bandi/lazio-smart-map-digitalizzazione-degli-strumenti-di-pianificazione-dei-piccoli-comuni": {
-    "testo": "Scadenza: 9 novembre 2026 Aperto Lazio - \"Smart Map\" - Digitalizzazione degli strumenti di pianificazione dei piccoli comuni Acquisto macchine e strumentazioni Formazione e lavoro Innovazione tecnolog",
-    "punteggio": 8,
+   "https://www.obiettivoeuropa.com/bandi/crea-partenariati-per-il-giornalismo-collaborazioni-e-pluralismo": {
+    "testo": "Scadenza: 4 febbraio 2027 Aperto CREA – Partenariati per il giornalismo: collaborazioni e pluralismo Consulenza specializzata Cooperazione Internazionale Diritti e Cittadinanza Editoria e informazione",
+    "punteggio": 5,
     "date": [
-     "2026-11-09",
-     "2026-12-18"
+     "2027-02-04",
+     "2027-03-02"
     ],
-    "contesto": "Scadenza: 18 dicembre 2026 Aperto Fondazione Compagnia di San Paolo – Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell’intelligenza artificiale nell’economia sociale Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Transizione digitale Cooperativ",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/gal-marsica-investimenti-produttivi-per-aumentare-i-servizi-al-turismo": {
-    "testo": "Scadenza: 15 dicembre 2026 Aperto GAL Marsica – Investimenti produttivi per aumentare i servizi al turismo Acquisto macchinari e/o attrezzature Arte e Cultura Gastronomia Servizi Sviluppo e promozione",
-    "punteggio": 8,
-    "date": [
-     "2026-12-15",
-     "2026-12-18"
-    ],
-    "contesto": "Scadenza: 18 dicembre 2026 Aperto Fondazione Compagnia di San Paolo – Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell’intelligenza artificiale nell’economia sociale Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Transizione digitale Cooperativ",
+    "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/invito-a-presentare-operazioni-relative-a-percorsi-di-formazione-in-alternanza-rivolte-ai-giovani-fino-ai-34-anni-match-point": {
     "testo": "Scadenza: 30 aprile 2027 Aperto Liguria - Invito a presentare operazioni relative a percorsi di formazione in alternanza rivolte ai giovani fino ai 34 anni - Match Point Formazione e lavoro Inclusione",
-    "punteggio": 8,
+    "punteggio": 10,
     "date": [
-     "2026-12-04",
-     "2027-03-16",
+     "2027-03-02",
      "2027-04-30"
     ],
-    "contesto": "Scadenza: 4 dicembre 2026 Aperto CCIAA Cuneo - Accompagnamento in tema Intelligenza Artificiale e modelli ESG Ambiente e Sviluppo sostenibile Formazione e lavoro Intelligenza Artificiale Supporto alle imprese Associazioni di categoria Bandi regionali / locali Scadenza: 16 marzo 2027 Aperto DIGITAL -",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/marche-marche-per-i-giovani-sostegno-allimprenditorialita-giovanile": {
-    "testo": "Scadenza: 30 novembre 2026 Aperto Marche - Marche per i giovani: sostegno all'imprenditorialità giovanile Formazione e lavoro Inclusione Sociale e Solidarietà Persone fisiche/Gruppi informali Bandi re",
-    "punteggio": 7,
-    "date": [
-     "2026-11-30",
-     "2026-12-04",
-     "2027-03-16"
-    ],
-    "contesto": "Scadenza: 4 dicembre 2026 Aperto CCIAA Cuneo - Accompagnamento in tema Intelligenza Artificiale e modelli ESG Ambiente e Sviluppo sostenibile Formazione e lavoro Intelligenza Artificiale Supporto alle imprese Associazioni di categoria Bandi regionali / locali Scadenza: 16 marzo 2027 Aperto DIGITAL -",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/gal-torre-natisone-intervento-3-creazione-di-attivita-extra-agricole": {
-    "testo": "Scadenza: 18 dicembre 2026 Aperto GAL Torre Natisone - Intervento 3. Creazione di attività extra-agricole Artigianato Commercio Servizi Supporto alle imprese Sviluppo e promozione territoriale Imprese",
-    "punteggio": 3,
-    "date": [
-     "2026-12-04",
-     "2026-12-18",
-     "2027-03-16"
-    ],
-    "contesto": "Scadenza: 4 dicembre 2026 Aperto CCIAA Cuneo - Accompagnamento in tema Intelligenza Artificiale e modelli ESG Ambiente e Sviluppo sostenibile Formazione e lavoro Intelligenza Artificiale Supporto alle imprese Associazioni di categoria Bandi regionali / locali Scadenza: 16 marzo 2027 Aperto DIGITAL -",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/gal-torre-natisone-intervento-1-attivazione-e-sviluppo-di-strutture-e-servizi-socioculturali-ricreativi-sportivi-e-turistici": {
-    "testo": "Scadenza: 20 novembre 2026 Aperto GAL Torre Natisone – Intervento 1. Attivazione e sviluppo di strutture e servizi socioculturali, ricreativi, sportivi e turistici Arte e Cultura Formazione e lavoro I",
-    "punteggio": 9,
-    "date": [
-     "2026-11-20",
-     "2026-12-04",
-     "2027-03-16"
-    ],
-    "contesto": "Scadenza: 4 dicembre 2026 Aperto CCIAA Cuneo - Accompagnamento in tema Intelligenza Artificiale e modelli ESG Ambiente e Sviluppo sostenibile Formazione e lavoro Intelligenza Artificiale Supporto alle imprese Associazioni di categoria Bandi regionali / locali Scadenza: 16 marzo 2027 Aperto DIGITAL -",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/fondazione-compagnia-di-san-paolo-bando-per-lo-sviluppo-di-strategie-e-percorsi-di-uso-responsabile-e-sicuro-dellintelligenza-artificiale-nelleconomia-sociale": {
-    "testo": "Scadenza: 18 dicembre 2026 Aperto Fondazione Compagnia di San Paolo – Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell’intelligenza artificiale nell’economia sociale Inn",
-    "punteggio": 8,
-    "date": [
-     "2026-12-18"
-    ],
-    "contesto": "Scadenza: 18 dicembre 2026 Aperto Fondazione Compagnia di San Paolo – Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell’intelligenza artificiale nell’economia sociale Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Transizione digitale Cooperativ",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/provincia-autonoma-di-bolzano-contributi-a-cooperative-sociali-di-tipo-b-per-linserimento-lavorativo-di-persone-svantaggiate": {
-    "testo": "Scadenza: 15 dicembre 2026 Aperto Provincia autonoma di Bolzano – Contributi a cooperative sociali di tipo B per l’inserimento lavorativo di persone svantaggiate Formazione e lavoro Inclusione Sociale",
-    "punteggio": 13,
-    "date": [
-     "2026-12-15",
-     "2026-12-18"
-    ],
-    "contesto": "Scadenza: 18 dicembre 2026 Aperto Fondazione Compagnia di San Paolo – Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell’intelligenza artificiale nell’economia sociale Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Transizione digitale Cooperativ",
+    "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/fondazione-cr-firenze-adolescenti-in-scena-il-potere-educativo-di-teatro-e-cinema-a-scuola": {
     "testo": "Scadenza: 18 novembre 2026 Aperto Fondazione CR Firenze – Adolescenti in scena: il potere educativo di teatro e cinema a scuola Arte e Cultura Audiovisivi e Cinema Educazione e istruzione Teatro Coope",
-    "punteggio": 8,
+    "punteggio": 5,
     "date": [
      "2026-11-18",
-     "2026-12-18"
+     "2027-03-02"
     ],
-    "contesto": "Scadenza: 18 dicembre 2026 Aperto Fondazione Compagnia di San Paolo – Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell’intelligenza artificiale nell’economia sociale Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Transizione digitale Cooperativ",
+    "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
     "prima_vista": "2026-11-02"
    },
-   "https://www.obiettivoeuropa.com/bandi/friuli-venezia-giulia-contributi-per-recupero-conservazione-e-valorizzazione-di-dimore-e-giardini-storici": {
-    "testo": "Scadenza: 23 novembre 2026 Aperto Friuli - Venezia Giulia - Contributi per recupero, conservazione e valorizzazione di dimore e giardini storici Ambiente e Sviluppo sostenibile Ristrutturazione, recup",
+   "https://www.obiettivoeuropa.com/bandi/abruzzo-rinaturalizzazione-e-miglioramento-di-superfici-forestali-al-fine-di-aumentarne-la-resilienza-contro-gli-incendi": {
+    "testo": "Scadenza: 15 dicembre 2026 Aperto Abruzzo – Rinaturalizzazione e miglioramento di superfici forestali al fine di aumentarne la resilienza contro gli incendi Ambiente e Sviluppo sostenibile Servizi Ent",
+    "punteggio": 7,
+    "date": [
+     "2026-12-15",
+     "2026-12-23"
+    ],
+    "contesto": "Scadenza: 23 dicembre 2026 Aperto Marche - Sottoprogramma apistico 2023/2027: Annata apistica 2027 Acquisto macchinari e/o attrezzature Agricoltura e sviluppo rurale Ambiente e Sviluppo sostenibile Benessere e diritti degli animali Biodiversità Formazione e lavoro Innovazione tecnologica, digitalizz",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/lazio-smart-map-digitalizzazione-degli-strumenti-di-pianificazione-dei-piccoli-comuni": {
+    "testo": "Scadenza: 9 novembre 2026 Aperto Lazio - \"Smart Map\" - Digitalizzazione degli strumenti di pianificazione dei piccoli comuni Acquisto macchine e strumentazioni Formazione e lavoro Innovazione tecnolog",
+    "punteggio": 5,
+    "date": [
+     "2026-11-09",
+     "2027-03-02"
+    ],
+    "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/gal-marsica-investimenti-produttivi-per-aumentare-i-servizi-al-turismo": {
+    "testo": "Scadenza: 15 dicembre 2026 Aperto GAL Marsica – Investimenti produttivi per aumentare i servizi al turismo Acquisto macchinari e/o attrezzature Arte e Cultura Gastronomia Servizi Sviluppo e promozione",
+    "punteggio": 5,
+    "date": [
+     "2026-12-15",
+     "2027-03-02"
+    ],
+    "contesto": "Scadenza: 2 marzo 2027 Aperto CREA - Sviluppo del pubblico ed educazione cinematografica Arte e Cultura Audiovisivi e Cinema Cooperazione Internazionale Educazione e istruzione Innovazione tecnologica, digitalizzazione, ICT Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/marche-sottoprogramma-apistico-annata-apistica": {
+    "testo": "Scadenza: 23 dicembre 2026 Aperto Marche - Sottoprogramma apistico 2023/2027: Annata apistica 2027 Acquisto macchinari e/o attrezzature Agricoltura e sviluppo rurale Ambiente e Sviluppo sostenibile Be",
+    "punteggio": 7,
+    "date": [
+     "2026-12-23"
+    ],
+    "contesto": "Scadenza: 23 dicembre 2026 Aperto Marche - Sottoprogramma apistico 2023/2027: Annata apistica 2027 Acquisto macchinari e/o attrezzature Agricoltura e sviluppo rurale Ambiente e Sviluppo sostenibile Benessere e diritti degli animali Biodiversità Formazione e lavoro Innovazione tecnologica, digitalizz",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/provincia-autonoma-di-bolzano-contributi-a-cooperative-sociali-di-tipo-b-per-linserimento-lavorativo-di-persone-svantaggiate": {
+    "testo": "Scadenza: 15 dicembre 2026 Aperto Provincia autonoma di Bolzano – Contributi a cooperative sociali di tipo B per l’inserimento lavorativo di persone svantaggiate Formazione e lavoro Inclusione Sociale",
+    "punteggio": 14,
+    "date": [
+     "2026-12-15",
+     "2026-12-23"
+    ],
+    "contesto": "Scadenza: 23 dicembre 2026 Aperto Marche - Sottoprogramma apistico 2023/2027: Annata apistica 2027 Acquisto macchinari e/o attrezzature Agricoltura e sviluppo rurale Ambiente e Sviluppo sostenibile Benessere e diritti degli animali Biodiversità Formazione e lavoro Innovazione tecnologica, digitalizz",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/fondazione-compagnia-di-san-paolo-bando-per-lo-sviluppo-di-strategie-e-percorsi-di-uso-responsabile-e-sicuro-dellintelligenza-artificiale-nelleconomia-sociale": {
+    "testo": "Scadenza: 18 dicembre 2026 Aperto Fondazione Compagnia di San Paolo – Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell’intelligenza artificiale nell’economia sociale Inn",
+    "punteggio": 10,
+    "date": [
+     "2026-12-18",
+     "2026-12-23"
+    ],
+    "contesto": "Scadenza: 23 dicembre 2026 Aperto Marche - Sottoprogramma apistico 2023/2027: Annata apistica 2027 Acquisto macchinari e/o attrezzature Agricoltura e sviluppo rurale Ambiente e Sviluppo sostenibile Benessere e diritti degli animali Biodiversità Formazione e lavoro Innovazione tecnologica, digitalizz",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/fondazione-mps-bando-habitus-riqualificazione-del-patrimonio-di-edilizia-residenziale-pubblica": {
+    "testo": "Scadenza: 16 dicembre 2026 Aperto Fondazione MPS - Bando HABITUS: riqualificazione del patrimonio di Edilizia Residenziale Pubblica Diritti e Cittadinanza Inclusione Sociale e Solidarietà Innovazione ",
+    "punteggio": 12,
+    "date": [
+     "2026-12-16",
+     "2026-12-23"
+    ],
+    "contesto": "Scadenza: 23 dicembre 2026 Aperto Marche - Sottoprogramma apistico 2023/2027: Annata apistica 2027 Acquisto macchinari e/o attrezzature Agricoltura e sviluppo rurale Ambiente e Sviluppo sostenibile Benessere e diritti degli animali Biodiversità Formazione e lavoro Innovazione tecnologica, digitalizz",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/bando-per-la-concessione-di-contributi-alle-nuove-imprese-giovanili-ed-alle-imprese-femminili": {
+    "testo": "Scadenza: 27 novembre 2026 Aperto CCIAA Gran Sasso D'Italia - Bando per la concessione di contributi alle nuove imprese giovanili ed alle imprese femminili Imprenditoria femminile Supporto alle impres",
     "punteggio": 9,
     "date": [
-     "2026-11-23",
-     "2026-12-18"
+     "2026-11-27",
+     "2026-12-23"
     ],
-    "contesto": "Scadenza: 18 dicembre 2026 Aperto Fondazione Compagnia di San Paolo – Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell’intelligenza artificiale nell’economia sociale Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Transizione digitale Cooperativ",
+    "contesto": "Scadenza: 23 dicembre 2026 Aperto Marche - Sottoprogramma apistico 2023/2027: Annata apistica 2027 Acquisto macchinari e/o attrezzature Agricoltura e sviluppo rurale Ambiente e Sviluppo sostenibile Benessere e diritti degli animali Biodiversità Formazione e lavoro Innovazione tecnologica, digitalizz",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/marche-avviso-pubblico-per-lassegnazione-di-borse-ricerca": {
     "testo": "Scadenza: 30 aprile 2027 In uscita Marche – Borse di ricerca per giovani talenti Agricoltura e sviluppo rurale Ambiente e Sviluppo sostenibile Arte e Cultura Educazione e istruzione Formazione e lavor",
-    "punteggio": 9,
+    "punteggio": 8,
     "date": [
-     "2026-12-18",
+     "2026-12-23",
      "2027-04-30"
     ],
-    "contesto": "Scadenza: 18 dicembre 2026 Aperto Fondazione Compagnia di San Paolo – Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell’intelligenza artificiale nell’economia sociale Innovazione tecnologica, digitalizzazione, ICT Intelligenza Artificiale Transizione digitale Cooperativ",
+    "contesto": "Scadenza: 23 dicembre 2026 Aperto Marche - Sottoprogramma apistico 2023/2027: Annata apistica 2027 Acquisto macchinari e/o attrezzature Agricoltura e sviluppo rurale Ambiente e Sviluppo sostenibile Benessere e diritti degli animali Biodiversità Formazione e lavoro Innovazione tecnologica, digitalizz",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/gal-torre-natisone-intervento-1-attivazione-e-sviluppo-di-strutture-e-servizi-socioculturali-ricreativi-sportivi-e-turistici": {
+    "testo": "Scadenza: 20 novembre 2026 Aperto GAL Torre Natisone – Intervento 1. Attivazione e sviluppo di strutture e servizi socioculturali, ricreativi, sportivi e turistici Arte e Cultura Formazione e lavoro I",
+    "punteggio": 7,
+    "date": [
+     "2026-11-20"
+    ],
+    "contesto": "Scadenza: 20 novembre 2026 Aperto GAL Torre Natisone – Intervento 1. Attivazione e sviluppo di strutture e servizi socioculturali, ricreativi, sportivi e turistici Arte e Cultura Formazione e lavoro Impianti sportivi Mobilità sostenibile Servizi Servizi sociali e socio-sanitari Sport Supporto alle i",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/gal-torre-natisone-intervento-3-creazione-di-attivita-extra-agricole": {
+    "testo": "Scadenza: 18 dicembre 2026 Aperto GAL Torre Natisone - Intervento 3. Creazione di attività extra-agricole Artigianato Commercio Servizi Supporto alle imprese Sviluppo e promozione territoriale Imprese",
+    "punteggio": 7,
+    "date": [
+     "2026-11-20",
+     "2026-12-18"
+    ],
+    "contesto": "Scadenza: 20 novembre 2026 Aperto GAL Torre Natisone – Intervento 1. Attivazione e sviluppo di strutture e servizi socioculturali, ricreativi, sportivi e turistici Arte e Cultura Formazione e lavoro Impianti sportivi Mobilità sostenibile Servizi Servizi sociali e socio-sanitari Sport Supporto alle i",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/friuli-venezia-giulia-contributi-per-recupero-conservazione-e-valorizzazione-di-dimore-e-giardini-storici": {
+    "testo": "Scadenza: 23 novembre 2026 Aperto Friuli - Venezia Giulia - Contributi per recupero, conservazione e valorizzazione di dimore e giardini storici Ambiente e Sviluppo sostenibile Ristrutturazione, recup",
+    "punteggio": 8,
+    "date": [
+     "2026-11-23",
+     "2026-12-23"
+    ],
+    "contesto": "Scadenza: 23 dicembre 2026 Aperto Marche - Sottoprogramma apistico 2023/2027: Annata apistica 2027 Acquisto macchinari e/o attrezzature Agricoltura e sviluppo rurale Ambiente e Sviluppo sostenibile Benessere e diritti degli animali Biodiversità Formazione e lavoro Innovazione tecnologica, digitalizz",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/lombardia-bando-a-sostegno-di-progetti-di-promozione-della-lingua-lombarda-attraverso-le-sue-varieta-locali": {
+    "testo": "Scadenza: 4 novembre 2026 Aperto Lombardia - Bando a sostegno di progetti di promozione della lingua lombarda attraverso le sue varietà locali Arte e Cultura Enti no profit / Enti del Terzo Settore En",
+    "punteggio": 9,
+    "date": [
+     "2026-11-04",
+     "2026-11-20"
+    ],
+    "contesto": "Scadenza: 20 novembre 2026 Aperto GAL Torre Natisone – Intervento 1. Attivazione e sviluppo di strutture e servizi socioculturali, ricreativi, sportivi e turistici Arte e Cultura Formazione e lavoro Impianti sportivi Mobilità sostenibile Servizi Servizi sociali e socio-sanitari Sport Supporto alle i",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/sardegna-bando-per-la-concessione-di-finanziamenti-ai-comuni-per-interventi-di-recupero-ripristino-e-riabilitazione-ambientale-delle-aree-interessate-da-attivita-minerarie-o-di-cava-dismesse-finalizzati-al-miglioramento-ambientale-e-alla-restituzione-d": {
     "testo": "Scadenza: 2 novembre 2026 Aperto Sardegna - Bando per la concessione di finanziamenti ai Comuni per interventi di recupero, ripristino e riabilitazione ambientale delle aree interessate da attività mi",
-    "punteggio": 3,
+    "punteggio": 9,
     "date": [
      "2026-11-02",
-     "2026-11-03"
+     "2026-11-20"
     ],
-    "contesto": "Scadenza: 3 novembre 2026 Aperto Bando SiLIFE – Sicily Innovation Hub for Life & Future Enterprises Formazione e lavoro Innovazione tecnologica, digitalizzazione, ICT Micro-imprese PMI Bandi regionali / locali Scadenza: 2 novembre 2026 Aperto Sardegna - Bando per la concessione di finanziamenti ai C",
+    "contesto": "Scadenza: 20 novembre 2026 Aperto GAL Torre Natisone – Intervento 1. Attivazione e sviluppo di strutture e servizi socioculturali, ricreativi, sportivi e turistici Arte e Cultura Formazione e lavoro Impianti sportivi Mobilità sostenibile Servizi Servizi sociali e socio-sanitari Sport Supporto alle i",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/bando-silife-sicily-innovation-hub-for-life-future-enterprises": {
     "testo": "Scadenza: 3 novembre 2026 Aperto Bando SiLIFE – Sicily Innovation Hub for Life & Future Enterprises Formazione e lavoro Innovazione tecnologica, digitalizzazione, ICT Micro-imprese PMI Bandi regionali",
-    "punteggio": 3,
+    "punteggio": 8,
     "date": [
-     "2026-11-02",
-     "2026-11-03"
+     "2026-11-03",
+     "2026-11-20"
     ],
-    "contesto": "Scadenza: 3 novembre 2026 Aperto Bando SiLIFE – Sicily Innovation Hub for Life & Future Enterprises Formazione e lavoro Innovazione tecnologica, digitalizzazione, ICT Micro-imprese PMI Bandi regionali / locali Scadenza: 2 novembre 2026 Aperto Sardegna - Bando per la concessione di finanziamenti ai C",
+    "contesto": "Scadenza: 20 novembre 2026 Aperto GAL Torre Natisone – Intervento 1. Attivazione e sviluppo di strutture e servizi socioculturali, ricreativi, sportivi e turistici Arte e Cultura Formazione e lavoro Impianti sportivi Mobilità sostenibile Servizi Servizi sociali e socio-sanitari Sport Supporto alle i",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/sardegna-fondo-grandi-produzioni-avviso-pubblico-per-la-concessione-di-contributi-per-il-sostegno-alle-grandi-produzioni-cinematografiche-e-audiovisive": {
     "testo": "Scadenza: 9 novembre 2026 Aperto Sardegna - Fondo grandi produzioni: Avviso pubblico per la concessione di contributi per il sostegno alle grandi produzioni cinematografiche e audiovisive Audiovisivi ",
-    "punteggio": 5,
+    "punteggio": 9,
     "date": [
-     "2026-11-02",
-     "2026-11-03",
-     "2026-11-09"
+     "2026-11-09",
+     "2026-11-20"
     ],
-    "contesto": "Scadenza: 3 novembre 2026 Aperto Bando SiLIFE – Sicily Innovation Hub for Life & Future Enterprises Formazione e lavoro Innovazione tecnologica, digitalizzazione, ICT Micro-imprese PMI Bandi regionali / locali Scadenza: 2 novembre 2026 Aperto Sardegna - Bando per la concessione di finanziamenti ai C",
+    "contesto": "Scadenza: 20 novembre 2026 Aperto GAL Torre Natisone – Intervento 1. Attivazione e sviluppo di strutture e servizi socioculturali, ricreativi, sportivi e turistici Arte e Cultura Formazione e lavoro Impianti sportivi Mobilità sostenibile Servizi Servizi sociali e socio-sanitari Sport Supporto alle i",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/toscana-bando-neve-spese-di-funzionamento": {
     "testo": "Scadenza: 16 novembre 2026 Aperto Toscana - Bando Neve - Spese di Funzionamento Impianti sportivi Servizi Sport Sviluppo e promozione territoriale Imprese Liberi professionisti Micro-imprese PMI Bandi",
-    "punteggio": 3,
+    "punteggio": 8,
     "date": [
-     "2026-11-02",
-     "2026-11-03",
-     "2026-11-16"
+     "2026-11-16",
+     "2026-11-20"
     ],
-    "contesto": "Scadenza: 3 novembre 2026 Aperto Bando SiLIFE – Sicily Innovation Hub for Life & Future Enterprises Formazione e lavoro Innovazione tecnologica, digitalizzazione, ICT Micro-imprese PMI Bandi regionali / locali Scadenza: 2 novembre 2026 Aperto Sardegna - Bando per la concessione di finanziamenti ai C",
+    "contesto": "Scadenza: 20 novembre 2026 Aperto GAL Torre Natisone – Intervento 1. Attivazione e sviluppo di strutture e servizi socioculturali, ricreativi, sportivi e turistici Arte e Cultura Formazione e lavoro Impianti sportivi Mobilità sostenibile Servizi Servizi sociali e socio-sanitari Sport Supporto alle i",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/lazio-giovani-attivita-professionali": {
     "testo": "Scadenza: 3 novembre 2027 In uscita Lazio - Giovani Attività Professionali Acquisto macchinari e/o attrezzature Brevetti e licenze Certificazioni Competitività imprese Consulenza specializzata Edilizi",
-    "punteggio": 3,
+    "punteggio": 7,
     "date": [
-     "2026-11-02",
-     "2026-11-03",
+     "2026-11-20",
      "2027-11-03"
     ],
-    "contesto": "Scadenza: 3 novembre 2026 Aperto Bando SiLIFE – Sicily Innovation Hub for Life & Future Enterprises Formazione e lavoro Innovazione tecnologica, digitalizzazione, ICT Micro-imprese PMI Bandi regionali / locali Scadenza: 2 novembre 2026 Aperto Sardegna - Bando per la concessione di finanziamenti ai C",
+    "contesto": "Scadenza: 20 novembre 2026 Aperto GAL Torre Natisone – Intervento 1. Attivazione e sviluppo di strutture e servizi socioculturali, ricreativi, sportivi e turistici Arte e Cultura Formazione e lavoro Impianti sportivi Mobilità sostenibile Servizi Servizi sociali e socio-sanitari Sport Supporto alle i",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/piemonte-presentazione-di-progetti-sperimentali-di-servizio-civile-regionale": {
     "testo": "Scadenza: 16 novembre 2026 Aperto Piemonte - Presentazione di progetti sperimentali di servizio civile regionale Agricoltura e sviluppo rurale Alimentazione e nutrizione Ambiente e Sviluppo sostenibil",
-    "punteggio": 12,
+    "punteggio": 10,
     "date": [
-     "2026-11-02",
-     "2026-11-03",
      "2026-11-16"
     ],
-    "contesto": "Scadenza: 3 novembre 2026 Aperto Bando SiLIFE – Sicily Innovation Hub for Life & Future Enterprises Formazione e lavoro Innovazione tecnologica, digitalizzazione, ICT Micro-imprese PMI Bandi regionali / locali Scadenza: 2 novembre 2026 Aperto Sardegna - Bando per la concessione di finanziamenti ai C",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/piemonte-promozione-dei-coordinamenti-pedagogici-territoriali": {
-    "testo": "Scadenza: 30 novembre 2026 Aperto Piemonte - Promozione dei coordinamenti pedagogici territoriali Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Enti pubblici Enti ter",
-    "punteggio": 7,
-    "date": [
-     "2026-11-02",
-     "2026-11-03",
-     "2026-11-30"
-    ],
-    "contesto": "Scadenza: 3 novembre 2026 Aperto Bando SiLIFE – Sicily Innovation Hub for Life & Future Enterprises Formazione e lavoro Innovazione tecnologica, digitalizzazione, ICT Micro-imprese PMI Bandi regionali / locali Scadenza: 2 novembre 2026 Aperto Sardegna - Bando per la concessione di finanziamenti ai C",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/gal-mongioie-bando-srd03-investimenti-aziende-agricole-per-diversificazione-in-attivita-non-agricole": {
-    "testo": "Scadenza: 21 gennaio 2027 Aperto Gal Mongioie - Bando SRD03: Investimenti aziende agricole per diversificazione in attività non agricole Agricoltura e sviluppo rurale Energie Rinnovabili Ristrutturazi",
-    "punteggio": 3,
-    "date": [
-     "2026-11-02",
-     "2026-11-03",
-     "2027-01-21"
-    ],
-    "contesto": "Scadenza: 3 novembre 2026 Aperto Bando SiLIFE – Sicily Innovation Hub for Life & Future Enterprises Formazione e lavoro Innovazione tecnologica, digitalizzazione, ICT Micro-imprese PMI Bandi regionali / locali Scadenza: 2 novembre 2026 Aperto Sardegna - Bando per la concessione di finanziamenti ai C",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/cciaa-brescia-bando-its-attivita-didattiche": {
-    "testo": "Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Bando ITS: attività didattiche Educazione e istruzione Formazione e lavoro Istituti Scolastici Bandi regionali / locali",
-    "punteggio": 3,
-    "date": [
-     "2026-11-16",
-     "2026-12-30"
-    ],
-    "contesto": "Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Contributi agli ITS per percorsi formativi dedicati all'autoimprenditorialità 2026/2027 Educazione e istruzione Formazione e lavoro Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Bando ITS: borse di stu",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/cciaa-brescia-contributi-agli-its-per-percorsi-formativi-dedicati-allautoimprenditorialita-20262027": {
-    "testo": "Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Contributi agli ITS per percorsi formativi dedicati all'autoimprenditorialità 2026/2027 Educazione e istruzione Formazione e lavoro Istituti Scolastic",
-    "punteggio": 3,
-    "date": [
-     "2026-11-16",
-     "2026-12-30"
-    ],
-    "contesto": "Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Contributi agli ITS per percorsi formativi dedicati all'autoimprenditorialità 2026/2027 Educazione e istruzione Formazione e lavoro Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Bando ITS: borse di stu",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/cciaa-brescia-bando-its-borse-di-studio": {
-    "testo": "Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Bando ITS: borse di studio Educazione e istruzione Istituti Scolastici Bandi regionali / locali",
-    "punteggio": 3,
-    "date": [
-     "2026-11-16",
-     "2026-12-30"
-    ],
-    "contesto": "Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Contributi agli ITS per percorsi formativi dedicati all'autoimprenditorialità 2026/2027 Educazione e istruzione Formazione e lavoro Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Bando ITS: borse di stu",
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Piemonte - Presentazione di progetti sperimentali di servizio civile regionale Agricoltura e sviluppo rurale Alimentazione e nutrizione Ambiente e Sviluppo sostenibile Arte e Cultura Biodiversità Diritti e Cittadinanza Edilizia Educazione e istruzione Formazione e l",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/piemonte-potenziamento-della-gestione-associata-degli-enti-gestori-delle-funzioni-socio-assistenziali": {
     "testo": "Scadenza: 30 dicembre 2026 Aperto Piemonte – Potenziamento della gestione associata degli Enti gestori delle funzioni socio-assistenziali Servizi sociali e socio-sanitari Enti no profit / Enti del Ter",
-    "punteggio": 9,
+    "punteggio": 7,
     "date": [
-     "2026-11-16",
+     "2026-11-20",
      "2026-12-30"
     ],
-    "contesto": "Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Contributi agli ITS per percorsi formativi dedicati all'autoimprenditorialità 2026/2027 Educazione e istruzione Formazione e lavoro Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Bando ITS: borse di stu",
+    "contesto": "Scadenza: 20 novembre 2026 Aperto GAL Torre Natisone – Intervento 1. Attivazione e sviluppo di strutture e servizi socioculturali, ricreativi, sportivi e turistici Arte e Cultura Formazione e lavoro Impianti sportivi Mobilità sostenibile Servizi Servizi sociali e socio-sanitari Sport Supporto alle i",
     "prima_vista": "2026-11-02"
    },
-   "https://www.obiettivoeuropa.com/bandi/lazio-bando-per-la-concessione-di-aiuti-de-minimis-alle-imprese-agricole-colpite-da-xylella-fastidiosa": {
-    "testo": "Scadenza: Ad esaurimento Aperto Lazio - Bando per la concessione di aiuti “de minimis” alle imprese agricole colpite da Xylella fastidiosa Agricoltura e sviluppo rurale Ambiente e Sviluppo sostenibile",
-    "punteggio": 3,
+   "https://www.obiettivoeuropa.com/bandi/cciaa-brescia-contributi-agli-its-per-percorsi-formativi-dedicati-allautoimprenditorialita-20262027": {
+    "testo": "Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Contributi agli ITS per percorsi formativi dedicati all'autoimprenditorialità 2026/2027 Educazione e istruzione Formazione e lavoro Istituti Scolastic",
+    "punteggio": 5,
     "date": [
-     "2026-11-19"
+     "2026-11-16"
     ],
-    "contesto": "Scadenza: 19 novembre 2026 Aperto Friuli - Venezia Giulia - Bando per la concessione di contributi ai Comuni per la realizzazione e l’implementazione di sistemi di videosorveglianza lungo i percorsi ciclopedonali, gli itinerari naturalistici, le aree verdi e i parchi pubblici Giustizia e sicurezza S",
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Piemonte - Presentazione di progetti sperimentali di servizio civile regionale Agricoltura e sviluppo rurale Alimentazione e nutrizione Ambiente e Sviluppo sostenibile Arte e Cultura Biodiversità Diritti e Cittadinanza Edilizia Educazione e istruzione Formazione e l",
     "prima_vista": "2026-11-02"
    },
-   "https://www.obiettivoeuropa.com/bandi/sardegna-avviso-pubblico-per-teatri-e-arene-spettacolo": {
-    "testo": "Scadenza: 9 novembre 2026 Aperto Sardegna - Avviso Pubblico per Teatri e Arene Spettacolo Arte e Cultura Edilizia Teatro Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti lo",
+   "https://www.obiettivoeuropa.com/bandi/cciaa-brescia-bando-its-borse-di-studio": {
+    "testo": "Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Bando ITS: borse di studio Educazione e istruzione Istituti Scolastici Bandi regionali / locali",
+    "punteggio": 5,
+    "date": [
+     "2026-11-16"
+    ],
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Piemonte - Presentazione di progetti sperimentali di servizio civile regionale Agricoltura e sviluppo rurale Alimentazione e nutrizione Ambiente e Sviluppo sostenibile Arte e Cultura Biodiversità Diritti e Cittadinanza Edilizia Educazione e istruzione Formazione e l",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/piemonte-promozione-dei-coordinamenti-pedagogici-territoriali": {
+    "testo": "Scadenza: 30 novembre 2026 Aperto Piemonte - Promozione dei coordinamenti pedagogici territoriali Diritti e Cittadinanza Educazione e istruzione Inclusione Sociale e Solidarietà Enti pubblici Enti ter",
     "punteggio": 8,
     "date": [
-     "2026-11-09",
-     "2026-11-19"
+     "2026-11-16",
+     "2026-11-30"
     ],
-    "contesto": "Scadenza: 19 novembre 2026 Aperto Friuli - Venezia Giulia - Bando per la concessione di contributi ai Comuni per la realizzazione e l’implementazione di sistemi di videosorveglianza lungo i percorsi ciclopedonali, gli itinerari naturalistici, le aree verdi e i parchi pubblici Giustizia e sicurezza S",
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Piemonte - Presentazione di progetti sperimentali di servizio civile regionale Agricoltura e sviluppo rurale Alimentazione e nutrizione Ambiente e Sviluppo sostenibile Arte e Cultura Biodiversità Diritti e Cittadinanza Edilizia Educazione e istruzione Formazione e l",
     "prima_vista": "2026-11-02"
    },
-   "https://www.obiettivoeuropa.com/bandi/marche-pn-feampa-intervento-motori": {
-    "testo": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Motori Mobilità sostenibile Pesca e acquacoltura Transizione ecologica Imprese Liberi professionisti Micro-imprese Bandi reg",
-    "punteggio": 3,
+   "https://www.obiettivoeuropa.com/bandi/fondazione-cr-terni-e-narni-bando-welfare-di-comunita": {
+    "testo": "Scadenza: 30 novembre 2026 Aperto Fondazione CR Terni e Narni – Bando Welfare di comunità Diritti e Cittadinanza Formazione e lavoro Inclusione Sociale e Solidarietà Marginalità sociale Parità di gene",
+    "punteggio": 19,
     "date": [
      "2026-11-16",
-     "2026-12-15",
-     "2026-12-30"
+     "2026-11-30"
     ],
-    "contesto": "Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Contributi agli ITS per percorsi formativi dedicati all'autoimprenditorialità 2026/2027 Educazione e istruzione Formazione e lavoro Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Bando ITS: borse di stu",
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Piemonte - Presentazione di progetti sperimentali di servizio civile regionale Agricoltura e sviluppo rurale Alimentazione e nutrizione Ambiente e Sviluppo sostenibile Arte e Cultura Biodiversità Diritti e Cittadinanza Edilizia Educazione e istruzione Formazione e l",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/cciaa-cuneo-bando-certificazione-filiera-del-legno": {
+    "testo": "Scadenza: 30 giugno 2027 Aperto CCIAA Cuneo – Bando Certificazione Filiera del Legno Agricoltura e sviluppo rurale Arte e Cultura Enti pubblici Enti territoriali/Enti locali Imprese Bandi regionali / ",
+    "punteggio": 5,
+    "date": [
+     "2026-11-16",
+     "2027-06-30"
+    ],
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Piemonte - Presentazione di progetti sperimentali di servizio civile regionale Agricoltura e sviluppo rurale Alimentazione e nutrizione Ambiente e Sviluppo sostenibile Arte e Cultura Biodiversità Diritti e Cittadinanza Edilizia Educazione e istruzione Formazione e l",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/cciaa-brescia-bando-its-attivita-didattiche": {
+    "testo": "Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Bando ITS: attività didattiche Educazione e istruzione Formazione e lavoro Istituti Scolastici Bandi regionali / locali",
+    "punteggio": 5,
+    "date": [
+     "2026-11-16"
+    ],
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Piemonte - Presentazione di progetti sperimentali di servizio civile regionale Agricoltura e sviluppo rurale Alimentazione e nutrizione Ambiente e Sviluppo sostenibile Arte e Cultura Biodiversità Diritti e Cittadinanza Edilizia Educazione e istruzione Formazione e l",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/valle-daosta-avviso-pubblico-26ab-attivita-di-alternanza-allestero-per-studenti-dei-percorsi-di-iefp": {
+    "testo": "Scadenza: 30 giugno 2030 Aperto Valle D'Aosta - Avviso pubblico 26AE - Attività di alternanza all’estero per studenti dei percorsi di IeFP Educazione e istruzione Formazione e lavoro Istituti Scolasti",
+    "punteggio": 2,
+    "date": [
+     "2026-12-15",
+     "2027-01-29",
+     "2030-06-30"
+    ],
+    "contesto": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Promozione Alimentazione e nutrizione Fiere ed eventi Gastronomia Media e informazione Pesca e acquacoltura Sviluppo e promozione territoriale Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 29 gennaio 2027 ",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/marche-pn-feampa-intervento-flotta": {
+    "testo": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Flotta Energie Rinnovabili Pesca e acquacoltura Supporto alle imprese Transizione energetica Imprese Liberi professionisti M",
+    "punteggio": 4,
+    "date": [
+     "2026-11-16",
+     "2026-12-15"
+    ],
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Piemonte - Presentazione di progetti sperimentali di servizio civile regionale Agricoltura e sviluppo rurale Alimentazione e nutrizione Ambiente e Sviluppo sostenibile Arte e Cultura Biodiversità Diritti e Cittadinanza Edilizia Educazione e istruzione Formazione e l",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/cciaa-gran-sasso-ditalia-bando-per-il-sostegno-alla-competitivita-internazionale-e-allo-sviluppo-dellexport": {
+    "testo": "Scadenza: 24 novembre 2026 Aperto CCIAA Gran Sasso d'Italia - Bando per il sostegno alla competitività internazionale e allo sviluppo dell'export 2026 Fiere ed eventi Innovazione tecnologica, digitali",
+    "punteggio": 5,
+    "date": [
+     "2026-11-16",
+     "2026-11-24"
+    ],
+    "contesto": "Scadenza: 16 novembre 2026 Aperto Piemonte - Presentazione di progetti sperimentali di servizio civile regionale Agricoltura e sviluppo rurale Alimentazione e nutrizione Ambiente e Sviluppo sostenibile Arte e Cultura Biodiversità Diritti e Cittadinanza Edilizia Educazione e istruzione Formazione e l",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/marche-pn-feampa-intervento-promozione": {
     "testo": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Promozione Alimentazione e nutrizione Fiere ed eventi Gastronomia Media e informazione Pesca e acquacoltura Sviluppo e promo",
-    "punteggio": 3,
+    "punteggio": 1,
     "date": [
-     "2026-11-16",
      "2026-12-15",
-     "2026-12-30"
+     "2027-01-29"
     ],
-    "contesto": "Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Contributi agli ITS per percorsi formativi dedicati all'autoimprenditorialità 2026/2027 Educazione e istruzione Formazione e lavoro Istituti Scolastici Bandi regionali / locali Scadenza: 16 novembre 2026 Aperto CCIAA Brescia – Bando ITS: borse di stu",
+    "contesto": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Promozione Alimentazione e nutrizione Fiere ed eventi Gastronomia Media e informazione Pesca e acquacoltura Sviluppo e promozione territoriale Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 29 gennaio 2027 ",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/gal-delta-2000-start-up-non-agricole": {
+    "testo": "Scadenza: 29 gennaio 2027 Aperto GAL Delta 2000 - Start up non agricole Competitività imprese Supporto alle imprese Sviluppo e promozione territoriale Liberi professionisti Micro-imprese Persone fisic",
+    "punteggio": 1,
+    "date": [
+     "2026-12-15",
+     "2027-01-29"
+    ],
+    "contesto": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Promozione Alimentazione e nutrizione Fiere ed eventi Gastronomia Media e informazione Pesca e acquacoltura Sviluppo e promozione territoriale Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 29 gennaio 2027 ",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/sardegna-avviso-pubblico-per-teatri-e-arene-spettacolo": {
+    "testo": "Scadenza: 9 novembre 2026 Aperto Sardegna - Avviso Pubblico per Teatri e Arene Spettacolo Arte e Cultura Edilizia Teatro Enti no profit / Enti del Terzo Settore Enti pubblici Enti territoriali/Enti lo",
+    "punteggio": 6,
+    "date": [
+     "2026-11-09",
+     "2026-12-15",
+     "2027-01-29"
+    ],
+    "contesto": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Promozione Alimentazione e nutrizione Fiere ed eventi Gastronomia Media e informazione Pesca e acquacoltura Sviluppo e promozione territoriale Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 29 gennaio 2027 ",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/lazio-next-generation-sostegno-alla-produzione-di-nuove-opere-cinematografiche-e-audiovisive-low-budget": {
     "testo": "Scadenza: 4 novembre 2026 Aperto Lazio - Next Generation - Sostegno alla produzione di nuove opere cinematografiche e audiovisive low budget Audiovisivi e Cinema Supporto alle imprese Sviluppo e promo",
-    "punteggio": 3,
+    "punteggio": 1,
     "date": [
      "2026-11-04",
-     "2026-11-19"
+     "2026-12-15",
+     "2027-01-29"
     ],
-    "contesto": "Scadenza: 19 novembre 2026 Aperto Friuli - Venezia Giulia - Bando per la concessione di contributi ai Comuni per la realizzazione e l’implementazione di sistemi di videosorveglianza lungo i percorsi ciclopedonali, gli itinerari naturalistici, le aree verdi e i parchi pubblici Giustizia e sicurezza S",
+    "contesto": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Promozione Alimentazione e nutrizione Fiere ed eventi Gastronomia Media e informazione Pesca e acquacoltura Sviluppo e promozione territoriale Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 29 gennaio 2027 ",
     "prima_vista": "2026-11-02"
    },
-   "https://www.obiettivoeuropa.com/bandi/marche-pn-feampa-intervento-acquacoltura-sostenibile": {
-    "testo": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Acquacoltura sostenibile Ambiente e Sviluppo sostenibile Pesca e acquacoltura Supporto alle imprese Imprese Micro-imprese PM",
-    "punteggio": 3,
+   "https://www.obiettivoeuropa.com/bandi/lazio-bando-per-la-concessione-di-aiuti-de-minimis-alle-imprese-agricole-colpite-da-xylella-fastidiosa": {
+    "testo": "Scadenza: Ad esaurimento Aperto Lazio - Bando per la concessione di aiuti “de minimis” alle imprese agricole colpite da Xylella fastidiosa Agricoltura e sviluppo rurale Ambiente e Sviluppo sostenibile",
+    "punteggio": 2,
     "date": [
-     "2026-11-19",
-     "2026-12-15"
+     "2026-12-15",
+     "2027-01-29"
     ],
-    "contesto": "Scadenza: 19 novembre 2026 Aperto Friuli - Venezia Giulia - Bando per la concessione di contributi ai Comuni per la realizzazione e l’implementazione di sistemi di videosorveglianza lungo i percorsi ciclopedonali, gli itinerari naturalistici, le aree verdi e i parchi pubblici Giustizia e sicurezza S",
+    "contesto": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Promozione Alimentazione e nutrizione Fiere ed eventi Gastronomia Media e informazione Pesca e acquacoltura Sviluppo e promozione territoriale Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 29 gennaio 2027 ",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/puglia-avviso-pubblico-regionale-per-lampliamento-e-laggiornamento-dei-peba-comunali": {
+    "testo": "Scadenza: 16 novembre 2026 Aperto Puglia - Avviso pubblico regionale per l’ampliamento e l’aggiornamento dei PEBA comunali Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, I",
+    "punteggio": 8,
+    "date": [
+     "2026-11-16",
+     "2026-12-15",
+     "2027-01-29"
+    ],
+    "contesto": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Promozione Alimentazione e nutrizione Fiere ed eventi Gastronomia Media e informazione Pesca e acquacoltura Sviluppo e promozione territoriale Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 29 gennaio 2027 ",
+    "prima_vista": "2026-11-02"
+   },
+   "https://www.obiettivoeuropa.com/bandi/lombardia-cofinanziamento-di-interventi-a-sostegno-dei-mercati": {
+    "testo": "Scadenza: 15 aprile 2027 Aperto Lombardia - Cofinanziamento di interventi a sostegno dei mercati Sviluppo e promozione territoriale Enti pubblici Enti territoriali/Enti locali Bandi regionali / locali",
+    "punteggio": 2,
+    "date": [
+     "2026-12-15",
+     "2027-01-29",
+     "2027-04-15"
+    ],
+    "contesto": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Promozione Alimentazione e nutrizione Fiere ed eventi Gastronomia Media e informazione Pesca e acquacoltura Sviluppo e promozione territoriale Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 29 gennaio 2027 ",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/friuli-venezia-giulia-bando-per-la-concessione-di-contributi-ai-comuni-per-la-realizzazione-e-limplementazione-di-sistemi-di-videosorveglianza-lungo-i-percorsi-ciclopedonali-gli-itinerari-naturalistici-le-aree-verdi-e-i-parchi-pubblici": {
     "testo": "Scadenza: 19 novembre 2026 Aperto Friuli - Venezia Giulia - Bando per la concessione di contributi ai Comuni per la realizzazione e l’implementazione di sistemi di videosorveglianza lungo i percorsi c",
     "punteggio": 3,
     "date": [
-     "2026-11-19"
-    ],
-    "contesto": "Scadenza: 19 novembre 2026 Aperto Friuli - Venezia Giulia - Bando per la concessione di contributi ai Comuni per la realizzazione e l’implementazione di sistemi di videosorveglianza lungo i percorsi ciclopedonali, gli itinerari naturalistici, le aree verdi e i parchi pubblici Giustizia e sicurezza S",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/marche-pn-feampa-intervento-flotta": {
-    "testo": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Flotta Energie Rinnovabili Pesca e acquacoltura Supporto alle imprese Transizione energetica Imprese Liberi professionisti M",
-    "punteggio": 3,
-    "date": [
      "2026-11-19",
-     "2026-12-15"
+     "2026-12-15",
+     "2027-01-29"
     ],
-    "contesto": "Scadenza: 19 novembre 2026 Aperto Friuli - Venezia Giulia - Bando per la concessione di contributi ai Comuni per la realizzazione e l’implementazione di sistemi di videosorveglianza lungo i percorsi ciclopedonali, gli itinerari naturalistici, le aree verdi e i parchi pubblici Giustizia e sicurezza S",
+    "contesto": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Promozione Alimentazione e nutrizione Fiere ed eventi Gastronomia Media e informazione Pesca e acquacoltura Sviluppo e promozione territoriale Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 29 gennaio 2027 ",
     "prima_vista": "2026-11-02"
    },
    "https://www.obiettivoeuropa.com/bandi/invitalia-incentivo-per-la-filiera-del-libro": {
     "testo": "Scadenza: Ad esaurimento In uscita Invitalia - Incentivo per la filiera del libro Arte e Cultura Libro e lettura Enti no profit / Enti del Terzo Settore PMI Bandi nazionali / PNRR",
-    "punteggio": 7,
-    "date": [
-     "2026-11-19"
-    ],
-    "contesto": "Scadenza: 19 novembre 2026 Aperto Friuli - Venezia Giulia - Bando per la concessione di contributi ai Comuni per la realizzazione e l’implementazione di sistemi di videosorveglianza lungo i percorsi ciclopedonali, gli itinerari naturalistici, le aree verdi e i parchi pubblici Giustizia e sicurezza S",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/puglia-avviso-pubblico-regionale-per-lampliamento-e-laggiornamento-dei-peba-comunali": {
-    "testo": "Scadenza: 16 novembre 2026 Aperto Puglia - Avviso pubblico regionale per l’ampliamento e l’aggiornamento dei PEBA comunali Inclusione Sociale e Solidarietà Innovazione tecnologica, digitalizzazione, I",
-    "punteggio": 10,
-    "date": [
-     "2026-11-16",
-     "2026-11-19"
-    ],
-    "contesto": "Scadenza: 19 novembre 2026 Aperto Friuli - Venezia Giulia - Bando per la concessione di contributi ai Comuni per la realizzazione e l’implementazione di sistemi di videosorveglianza lungo i percorsi ciclopedonali, gli itinerari naturalistici, le aree verdi e i parchi pubblici Giustizia e sicurezza S",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/lombardia-bando-rivolto-agli-enti-locali-per-il-contributo-finalizzato-allacquisizione-di-mezzi-ed-attrezzature-ad-uso-esclusivo-di-protezione-civile": {
-    "testo": "Scadenza: 12 novembre 2026 Aperto Lombardia - Bando rivolto agli enti locali per il contributo finalizzato all'acquisizione di mezzi ed attrezzature ad uso esclusivo di Protezione Civile Diritti e Cit",
     "punteggio": 5,
     "date": [
-     "2026-11-12",
-     "2026-11-19"
+     "2026-12-15",
+     "2027-01-29"
     ],
-    "contesto": "Scadenza: 19 novembre 2026 Aperto Friuli - Venezia Giulia - Bando per la concessione di contributi ai Comuni per la realizzazione e l’implementazione di sistemi di videosorveglianza lungo i percorsi ciclopedonali, gli itinerari naturalistici, le aree verdi e i parchi pubblici Giustizia e sicurezza S",
-    "prima_vista": "2026-11-02"
-   },
-   "https://www.obiettivoeuropa.com/bandi/valle-daosta-avviso-pubblico-26ab-attivita-di-alternanza-allestero-per-studenti-dei-percorsi-di-iefp": {
-    "testo": "Scadenza: 30 giugno 2030 Aperto Valle D'Aosta - Avviso pubblico 26AE - Attività di alternanza all’estero per studenti dei percorsi di IeFP Educazione e istruzione Formazione e lavoro Istituti Scolasti",
-    "punteggio": 4,
-    "date": [
-     "2026-11-19",
-     "2030-06-30"
-    ],
-    "contesto": "Scadenza: 19 novembre 2026 Aperto Friuli - Venezia Giulia - Bando per la concessione di contributi ai Comuni per la realizzazione e l’implementazione di sistemi di videosorveglianza lungo i percorsi ciclopedonali, gli itinerari naturalistici, le aree verdi e i parchi pubblici Giustizia e sicurezza S",
+    "contesto": "Scadenza: 15 dicembre 2026 Aperto Marche - PN FEAMPA 2021/2027 – Intervento Promozione Alimentazione e nutrizione Fiere ed eventi Gastronomia Media e informazione Pesca e acquacoltura Sviluppo e promozione territoriale Enti territoriali/Enti locali Bandi regionali / locali Scadenza: 29 gennaio 2027 ",
     "prima_vista": "2026-11-02"
    }
   },
@@ -6672,7 +6656,7 @@
   "nome": "CSVnet — bandi con tema 'Inclusione sociale'",
   "url": "https://infobandi.csvnet.it/tag/inclusione-sociale/",
   "categoria": "Aggregatore",
-  "hash": "3b995f410b578444a7d4f15368912d1f21992754",
+  "hash": "3e655bb067d1ee9dc9bf5167ccbd08366dd80bca",
   "link": {
    "https://infobandi.csvnet.it/nave-italia-preselezione-dei-progetti-da-realizzarsi-nel-2027/": {
     "testo": "Nave Italia – Preselezione dei progetti da realizzarsi nel 2027",
@@ -6686,6 +6670,13 @@
     "punteggio": 9,
     "date": [],
     "contesto": "Incentivi agli ETS per assunzione persone con disabilità under 35 Il bando mette a disposizione 25 milioni di euro per riconoscere incentivi agli enti del Terzo settore che assumono a tempo indeterminato persone con disabilità under 35 o trasformano a tempo indeterminato rapporti di lavoro a termine",
+    "prima_vista": "2026-11-02"
+   },
+   "https://infobandi.csvnet.it/otto-per-mille-dellunione-induista-italiana-anno-2026/": {
+    "testo": "Otto per mille dell’Unione Induista Italiana – anno 2026",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Otto per mille dell’Unione Induista Italiana – anno 2026 Aperta la possibilità per enti e associazioni di presentare progetti per accedere ai fondi dell’otto per mille dell’Unione Induista Italiana, a sostegno di iniziative di natura sociale, religiosa, culturale, umanitaria e assistenziale da reali",
     "prima_vista": "2026-11-02"
    },
    "https://infobandi.csvnet.it/premio-giancarlo-pignone-2026-per-progetti-a-favore-delle-persone-con-disabilita/": {
@@ -6735,13 +6726,6 @@
     "punteggio": 9,
     "date": [],
     "contesto": "Contributi per progetti di utilità sociale – direttrici di intervento 2026 La Fondazione valuta richieste di contributo finalizzate alla realizzazione di progetti di utilità sociale che rientrano nelle 3 linee di intervento previste per il 2026: povertà, donne e disabilità. leggi tutto",
-    "prima_vista": "2026-11-02"
-   },
-   "https://infobandi.csvnet.it/iniziativa-beni-confiscati-regolamento-2026/": {
-    "testo": "Iniziativa Beni confiscati – Regolamento 2026",
-    "punteggio": 4,
-    "date": [],
-    "contesto": "Iniziativa Beni confiscati – Regolamento 2026 La Fondazione ha stanziato 2 milioni di euro e pubblicato il Regolamento 2026 per accedere a una modalità erogativa “a richiesta”, rivolta agli ETS che per la prima volta decidono di affrontare un percorso di impegno civile in rete, valorizzando beni con",
     "prima_vista": "2026-11-02"
    }
   },
@@ -7284,8 +7268,15 @@
   "nome": "Innovazione Sociale — bandi e finanziamenti",
   "url": "https://innovazionesociale.org/index.php/14-bandi-e-finanziamenti",
   "categoria": "Aggregatore",
-  "hash": "a951d4c1882006abf439ea04ff4e3a8ceafd0a59",
+  "hash": "ef30a36a4de1ba34e95c4bb47ff775b16d21affb",
   "link": {
+   "https://innovazionesociale.org/index.php/14-bandi-e-finanziamenti/3001-premio-impresa-ambiente-il-riconoscimento-dedicato-a-chi-fa-della-sostenibilita-un-valore": {
+    "testo": "Premio Impresa Ambiente: il riconoscimento dedicato a chi fa della sostenibilità un valore",
+    "punteggio": 4,
+    "date": [],
+    "contesto": "Premio Impresa Ambiente: il riconoscimento dedicato a chi fa della sostenibilità un valore",
+    "prima_vista": "2026-11-02"
+   },
    "https://innovazionesociale.org/index.php/14-bandi-e-finanziamenti/2995-incentivo-per-la-filiera-del-libro-oltre-7-4-milioni-di-euro-per-imprese-e-terzo-settore": {
     "testo": "Incentivo per la filiera del libro: oltre 7,4 milioni di euro per imprese e Terzo settore",
     "punteggio": 5,
@@ -7410,13 +7401,6 @@
     "punteggio": 3,
     "date": [],
     "contesto": "Per Chi Crea 2026: oltre 13 milioni di euro per la creatività dei giovani artisti",
-    "prima_vista": "2026-11-02"
-   },
-   "https://innovazionesociale.org/index.php/14-bandi-e-finanziamenti/2962-polaris-25-milioni-di-euro-per-formazione-e-orientamento-stem-nelle-scuole": {
-    "testo": "Polaris+: 25 milioni di euro per formazione e orientamento STEM nelle scuole",
-    "punteggio": 3,
-    "date": [],
-    "contesto": "Polaris+: 25 milioni di euro per formazione e orientamento STEM nelle scuole",
     "prima_vista": "2026-11-02"
    },
    "https://innovazionesociale.org/index.php/30-volontariato-8-piattaforme-utili-per-donare-il-nostro-tempo": {
@@ -7725,7 +7709,7 @@
   "nome": "Regione Piemonte — portale bandi",
   "url": "https://bandi.regione.piemonte.it/",
   "categoria": "Regione",
-  "fallimenti": 1
+  "fallimenti": 2
  },
  "78": {
   "nome": "Fondazione Carisap (Ascoli Piceno)",
