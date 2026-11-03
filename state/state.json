@@ -94,8 +94,15 @@
   "nome": "CSV Lombardia — bandi per le organizzazioni",
   "url": "https://www.csvlombardia.it/category/lombardia/per-le-organizzazioni/per-le-organizzazioni-bandi/",
   "categoria": "Aggregatore",
-  "hash": "23d7dddb3037ea81b902f47a9c201bb5f4beb60a",
+  "hash": "1d1689fb35f43803e54f39798843f59e110a110a",
   "link": {
+   "https://www.csvlombardia.it/lombardia/post/sport-e-salute-online-lavviso-fabbrica-spazi-civici-per-la-gioventu/": {
+    "testo": "SPORT e SALUTE – Online l’Avviso “Fabbrica – Spazi Civici per la Gioventù”",
+    "punteggio": 1,
+    "date": [],
+    "contesto": "SPORT e SALUTE – Online l’Avviso “Fabbrica – Spazi Civici per la Gioventù” CSV Lombardia 2026-11-03T14:08:33+01:00 “Fabbrica – Spazi Civici per la Gioventù” è un programma promosso dal Ministro per lo Sport e i Giovani e attuato dal Dipartimento per le Politiche Giovanili e il Servizio Civile Univer",
+    "prima_vista": "2026-11-03"
+   },
    "https://www.csvlombardia.it/lombardia/post/105-milioni-di-euro-al-terzo-settore-con-lavviso-2-2026/": {
     "testo": "10,5 milioni di euro al Terzo settore con l’Avviso 2/2026",
     "punteggio": 7,
@@ -2755,7 +2762,7 @@
   "nome": "Ministero della Salute — avvisi",
   "url": "https://www.salute.gov.it/portale/news/p3_2_1.jsp?lingua=italiano&menu=notizie&p=avvisi",
   "categoria": "Ministero",
-  "hash": "ced32c3600b8dce9b907ee7f838d1d4cf4296dc0",
+  "hash": "bf977cd320c09418aeb60bc756809ff2dd7286df",
   "link": {},
   "ultimo_ok": "2026-11-03",
   "fallimenti": 0
@@ -6900,7 +6907,7 @@
   "nome": "Innovazione Sociale — bandi e finanziamenti",
   "url": "https://innovazionesociale.org/index.php/14-bandi-e-finanziamenti",
   "categoria": "Aggregatore",
-  "hash": "17767970c0d1a02b0626a38a043e44b54351b13a",
+  "hash": "bc0c2c4e3223c36b9896eae2b3c30050b9d1f339",
   "link": {
    "https://innovazionesociale.org/index.php/14-bandi-e-finanziamenti/3001-premio-impresa-ambiente-il-riconoscimento-dedicato-a-chi-fa-della-sostenibilita-un-valore": {
     "testo": "Premio Impresa Ambiente: il riconoscimento dedicato a chi fa della sostenibilità un valore",
@@ -8094,13 +8101,20 @@
   "nome": "Fondazione della Comunità Bergamasca (indirizzo corretto)",
   "url": "https://www.fondazionebergamo.it/blog/",
   "categoria": "Fondazione di comunità",
-  "hash": "6d67bf7db0e6bad8a6facc49b96d5a6008d46108",
+  "hash": "2dca483574dd24527f8a1876cdc7362b8716a5c6",
   "link": {
    "https://www.fondazionebergamo.it/blog/le-poverta-che-cambiano-le-comunita-cercano-insieme-nuove-risposte/": {
     "testo": "LE POVERTÀ CAMBIANO, LE COMUNITÀ CERCANO INSIEME NUOVE RISPOSTE",
     "punteggio": 4,
     "date": [],
     "contesto": "LE POVERTÀ CAMBIANO, LE COMUNITÀ CERCANO INSIEME NUOVE RISPOSTE",
+    "prima_vista": "2026-11-03"
+   },
+   "https://www.fondazionebergamo.it/blog/cultura-che-cura-quando-la-cultura-genera-benessere/": {
+    "testo": "Cultura che cura. Quando la cultura genera benessere.",
+    "punteggio": 2,
+    "date": [],
+    "contesto": "Cultura che cura. Quando la cultura genera benessere.",
     "prima_vista": "2026-11-03"
    },
    "https://www.fondazionebergamo.it/blog/premio-bergamo-terra-del-volontariato-2026/": {
@@ -8136,13 +8150,6 @@
     "punteggio": 2,
     "date": [],
     "contesto": "Orizzonte Comunità: Fondazione della Comunità Bergamasca apre uno spazio di confronto sul presente e sul futuro delle comunità",
-    "prima_vista": "2026-11-03"
-   },
-   "https://www.fondazionebergamo.it/blog/al-colle-hub-sociale-il-bar-di-bruntino-rinasce-come-presidio-di-comunita/": {
-    "testo": "“AL COLLE HUB SOCIALE”, il bar di Bruntino rinasce come presidio di Comunità",
-    "punteggio": 4,
-    "date": [],
-    "contesto": "“AL COLLE HUB SOCIALE”, il bar di Bruntino rinasce come presidio di Comunità",
     "prima_vista": "2026-11-03"
    },
    "https://www.fondazionebergamo.it/progetti-in-corso/": {
