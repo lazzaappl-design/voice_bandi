@@ -37,7 +37,9 @@ BANDO = ["bando", "avviso", "call", "contribut", "scadenz", "candidatur", "finan
          "8xmille", "8x1000", "otto per mille", "progetti"]
 SCARTA_HREF = ("mailto:", "tel:", "javascript:", "#")
 SCARTA_URL = ("/tag/", "/taxonomy/", "/author/", "/category/", "/settore/", "/pagina/", "/page/", "/feed", "wp-json", "/search")
-SCARTA_TESTO = ("esiti", "graduatori", "vincitor", "risultati", "podcast", "newsletter", "iscriviti", "rendicontazione")
+SCARTA_TESTO = ("esiti", "graduatori", "vincitor", "risultati", "podcast", "newsletter", "iscriviti", "rendicontazione",
+                "cciaa", "artigian", "apistic", "macchinari", "start up", "start-up", "imprese giovanili",
+                "imprenditoria", "antiviolenza", "violenza", "export", "filiera", "nautic")
 SCARTA_DOMINI = ("facebook.com", "twitter.com", "x.com", "instagram.com", "linkedin.com",
                  "youtube.com", "wa.me", "t.me", "whatsapp.com")
 
